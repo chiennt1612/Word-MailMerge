@@ -1,0 +1,43 @@
+{
+  "DataVar": {
+    "AT_PERIODNAME": "Kỳ lương tháng 2 năm 2020",
+    "HU_EMPLOYEENAME": "Nguyễn Văn Nam",
+    "HU_EMPLOYEECODE": "00001",
+    "HU_ORGANIZATIONNAME": "Công ty cổ phần phần mềm Văn Nam",
+    "ALLOWANCE": 10000000,
+    "TOTAL": 20000000,
+    "PERSONTAX": 300000
+  },
+  "DATA": [
+    {
+      "STT": 1,
+      "ALLOWANCENAME": "Công tác phí",
+      "ALLOWANCE": 500000,
+      "ALLOWANCEDATE": "02/05/2020"
+    },
+    {
+      "STT": 2,
+      "ALLOWANCENAME": "Phụ cấp trách nhiệm",
+      "ALLOWANCE": 200000,
+      "ALLOWANCEDATE": "02/05/2020"
+    },
+    {
+      "STT": 3,
+      "ALLOWANCENAME": "Phụ cấp điện thoại",
+      "ALLOWANCE": 500000,
+      "ALLOWANCEDATE": "02/05/2020"
+    },
+    {
+      "STT": 4,
+      "ALLOWANCENAME": "Phụ cấp xăng xe",
+      "ALLOWANCE": 500000,
+      "ALLOWANCEDATE": "02/05/2020"
+    },
+    {
+      "STT": 5,
+      "ALLOWANCENAME": "Phụ cấp trông trẻ",
+      "ALLOWANCE": 200000,
+      "ALLOWANCEDATE": "02/05/2020"
+    }
+  ]
+}

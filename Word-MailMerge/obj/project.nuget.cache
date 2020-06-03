@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "ra56nLjRNf6zJzIiCFkunPGLnQoPMwXrd8+hghs8tU7ruy3V2SZzDVI5ubNAx9ygFZOfp9VWr5WekXBIzwb71Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Administrator\\source\\repos\\Word-MailMerge\\Word-MailMerge\\Word-MailMerge.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrator\\.nuget\\packages\\documentformat.openxml\\2.11.0\\documentformat.openxml.2.11.0.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\system.io.packaging\\4.7.0\\system.io.packaging.4.7.0.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

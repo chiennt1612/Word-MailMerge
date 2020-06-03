@@ -1,0 +1,3241 @@
+
+Log Entry 1:20:07 PM Saturday, May 30, 2020: 
+para: DocumentFormat.OpenXml.Wordprocessing.Paragraph
+Log Entry 1:20:07 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:20:07 PM Saturday, May 30, 2020: 
+Text: PHIẾU LƯƠNG; s: PHIẾU LƯƠNG
+Log Entry 1:20:07 PM Saturday, May 30, 2020: 
+Table: DocumentFormat.OpenXml.Wordprocessing.Table
+Log Entry 1:20:07 PM Saturday, May 30, 2020: 
+Table: DocumentFormat.OpenXml.Wordprocessing.Table
+Log Entry 1:20:07 PM Saturday, May 30, 2020: 
+Row: DocumentFormat.OpenXml.Wordprocessing.TableRow
+Log Entry 1:20:07 PM Saturday, May 30, 2020: 
+Cell: DocumentFormat.OpenXml.Wordprocessing.TableCell
+Log Entry 1:20:07 PM Saturday, May 30, 2020: 
+para: DocumentFormat.OpenXml.Wordprocessing.Paragraph
+Log Entry 1:20:07 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:20:07 PM Saturday, May 30, 2020: 
+Text: Kỳ lương
+Log Entry 1:20:07 PM Saturday, May 30, 2020: 
+Text: Kỳ lương; s: Kỳ lương
+Log Entry 1:20:07 PM Saturday, May 30, 2020: 
+Cell: DocumentFormat.OpenXml.Wordprocessing.TableCell
+Log Entry 1:20:07 PM Saturday, May 30, 2020: 
+para: DocumentFormat.OpenXml.Wordprocessing.Paragraph
+Log Entry 1:20:07 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:20:07 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:20:07 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:20:07 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:20:07 PM Saturday, May 30, 2020: 
+Text: «Var:AT_PERIODNAME»
+Log Entry 1:20:07 PM Saturday, May 30, 2020: 
+s «Var:AT_PERIODNAME»; s1 AT_PERIODNAME; ValS1 Kỳ lương tháng 2 năm 2020
+Log Entry 1:20:07 PM Saturday, May 30, 2020: 
+Text: «Var:AT_PERIODNAME»; s: Kỳ lương tháng 2 năm 2020
+Log Entry 1:20:07 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:20:07 PM Saturday, May 30, 2020: 
+Row: DocumentFormat.OpenXml.Wordprocessing.TableRow
+Log Entry 1:20:07 PM Saturday, May 30, 2020: 
+Cell: DocumentFormat.OpenXml.Wordprocessing.TableCell
+Log Entry 1:20:07 PM Saturday, May 30, 2020: 
+para: DocumentFormat.OpenXml.Wordprocessing.Paragraph
+Log Entry 1:20:07 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:20:07 PM Saturday, May 30, 2020: 
+Text: Họ tên
+Log Entry 1:20:07 PM Saturday, May 30, 2020: 
+Text: Họ tên; s: Họ tên
+Log Entry 1:20:07 PM Saturday, May 30, 2020: 
+Cell: DocumentFormat.OpenXml.Wordprocessing.TableCell
+Log Entry 1:20:07 PM Saturday, May 30, 2020: 
+para: DocumentFormat.OpenXml.Wordprocessing.Paragraph
+Log Entry 1:20:07 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:20:07 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:20:07 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:20:07 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:20:07 PM Saturday, May 30, 2020: 
+Text: «Var:HU_EMPLOYEENAME»
+Log Entry 1:20:07 PM Saturday, May 30, 2020: 
+s «Var:HU_EMPLOYEENAME»; s1 HU_EMPLOYEENAME; ValS1 Nguyễn Văn Nam
+Log Entry 1:20:07 PM Saturday, May 30, 2020: 
+Text: «Var:HU_EMPLOYEENAME»; s: Nguyễn Văn Nam
+Log Entry 1:20:07 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:20:07 PM Saturday, May 30, 2020: 
+Row: DocumentFormat.OpenXml.Wordprocessing.TableRow
+Log Entry 1:20:07 PM Saturday, May 30, 2020: 
+Cell: DocumentFormat.OpenXml.Wordprocessing.TableCell
+Log Entry 1:20:07 PM Saturday, May 30, 2020: 
+para: DocumentFormat.OpenXml.Wordprocessing.Paragraph
+Log Entry 1:20:07 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:20:07 PM Saturday, May 30, 2020: 
+Text: Mã
+Log Entry 1:20:07 PM Saturday, May 30, 2020: 
+Text: Mã; s: Mã
+Log Entry 1:20:07 PM Saturday, May 30, 2020: 
+Cell: DocumentFormat.OpenXml.Wordprocessing.TableCell
+Log Entry 1:20:07 PM Saturday, May 30, 2020: 
+para: DocumentFormat.OpenXml.Wordprocessing.Paragraph
+Log Entry 1:20:07 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:20:07 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:20:07 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:20:07 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:20:07 PM Saturday, May 30, 2020: 
+Text: «Var:HU_EMPLOYEECODE»
+Log Entry 1:20:07 PM Saturday, May 30, 2020: 
+s «Var:HU_EMPLOYEECODE»; s1 HU_EMPLOYEECODE; ValS1 00001
+Log Entry 1:20:07 PM Saturday, May 30, 2020: 
+Text: «Var:HU_EMPLOYEECODE»; s: 00001
+Log Entry 1:20:07 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:20:07 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:20:07 PM Saturday, May 30, 2020: 
+Text:  
+Log Entry 1:20:07 PM Saturday, May 30, 2020: 
+Text:  ; s:  
+Log Entry 1:20:07 PM Saturday, May 30, 2020: 
+Row: DocumentFormat.OpenXml.Wordprocessing.TableRow
+Log Entry 1:20:07 PM Saturday, May 30, 2020: 
+Cell: DocumentFormat.OpenXml.Wordprocessing.TableCell
+Log Entry 1:20:07 PM Saturday, May 30, 2020: 
+para: DocumentFormat.OpenXml.Wordprocessing.Paragraph
+Log Entry 1:20:07 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:20:07 PM Saturday, May 30, 2020: 
+Text: Đơn vị
+Log Entry 1:20:07 PM Saturday, May 30, 2020: 
+Text: Đơn vị; s: Đơn vị
+Log Entry 1:20:07 PM Saturday, May 30, 2020: 
+Cell: DocumentFormat.OpenXml.Wordprocessing.TableCell
+Log Entry 1:20:07 PM Saturday, May 30, 2020: 
+para: DocumentFormat.OpenXml.Wordprocessing.Paragraph
+Log Entry 1:20:07 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:20:07 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:20:07 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:20:07 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:20:07 PM Saturday, May 30, 2020: 
+Text: «Var:HU_ORGANIZATIONNAME»
+Log Entry 1:20:07 PM Saturday, May 30, 2020: 
+s «Var:HU_ORGANIZATIONNAME»; s1 HU_ORGANIZATIONNAME; ValS1 Công ty cổ phần phần mềm Văn Nam
+Log Entry 1:20:07 PM Saturday, May 30, 2020: 
+Text: «Var:HU_ORGANIZATIONNAME»; s: Công ty cổ phần phần mềm Văn Nam
+Log Entry 1:20:07 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:20:07 PM Saturday, May 30, 2020: 
+Row: DocumentFormat.OpenXml.Wordprocessing.TableRow
+Log Entry 1:20:07 PM Saturday, May 30, 2020: 
+Cell: DocumentFormat.OpenXml.Wordprocessing.TableCell
+Log Entry 1:20:07 PM Saturday, May 30, 2020: 
+para: DocumentFormat.OpenXml.Wordprocessing.Paragraph
+Log Entry 1:20:07 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:20:07 PM Saturday, May 30, 2020: 
+Text: Phụ cấp
+Log Entry 1:20:07 PM Saturday, May 30, 2020: 
+Text: Phụ cấp; s: Phụ cấp
+Log Entry 1:20:07 PM Saturday, May 30, 2020: 
+Cell: DocumentFormat.OpenXml.Wordprocessing.TableCell
+Log Entry 1:20:07 PM Saturday, May 30, 2020: 
+para: DocumentFormat.OpenXml.Wordprocessing.Paragraph
+Log Entry 1:20:07 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:20:07 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:20:07 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:20:07 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:20:07 PM Saturday, May 30, 2020: 
+Text: «Var:ALLOWANCE»
+Log Entry 1:20:07 PM Saturday, May 30, 2020: 
+s «Var:ALLOWANCE»; s1 ALLOWANCE; ValS1 10000000
+Log Entry 1:20:07 PM Saturday, May 30, 2020: 
+Text: «Var:ALLOWANCE»; s: 10000000
+Log Entry 1:20:07 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:20:07 PM Saturday, May 30, 2020: 
+Row: DocumentFormat.OpenXml.Wordprocessing.TableRow
+Log Entry 1:20:07 PM Saturday, May 30, 2020: 
+Cell: DocumentFormat.OpenXml.Wordprocessing.TableCell
+Log Entry 1:20:07 PM Saturday, May 30, 2020: 
+para: DocumentFormat.OpenXml.Wordprocessing.Paragraph
+Log Entry 1:20:07 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:20:07 PM Saturday, May 30, 2020: 
+Text: Tổng lương
+Log Entry 1:20:07 PM Saturday, May 30, 2020: 
+Text: Tổng lương; s: Tổng lương
+Log Entry 1:20:07 PM Saturday, May 30, 2020: 
+Cell: DocumentFormat.OpenXml.Wordprocessing.TableCell
+Log Entry 1:20:07 PM Saturday, May 30, 2020: 
+para: DocumentFormat.OpenXml.Wordprocessing.Paragraph
+Log Entry 1:20:07 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:20:07 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:20:07 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:20:07 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:20:07 PM Saturday, May 30, 2020: 
+Text: «Var:TOTAL»
+Log Entry 1:20:07 PM Saturday, May 30, 2020: 
+s «Var:TOTAL»; s1 TOTAL; ValS1 20000000
+Log Entry 1:20:07 PM Saturday, May 30, 2020: 
+Text: «Var:TOTAL»; s: 20000000
+Log Entry 1:20:07 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:20:07 PM Saturday, May 30, 2020: 
+Row: DocumentFormat.OpenXml.Wordprocessing.TableRow
+Log Entry 1:20:07 PM Saturday, May 30, 2020: 
+Cell: DocumentFormat.OpenXml.Wordprocessing.TableCell
+Log Entry 1:20:07 PM Saturday, May 30, 2020: 
+para: DocumentFormat.OpenXml.Wordprocessing.Paragraph
+Log Entry 1:20:07 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:20:07 PM Saturday, May 30, 2020: 
+Text: Thuế
+Log Entry 1:20:07 PM Saturday, May 30, 2020: 
+Text: Thuế; s: Thuế
+Log Entry 1:20:07 PM Saturday, May 30, 2020: 
+Cell: DocumentFormat.OpenXml.Wordprocessing.TableCell
+Log Entry 1:20:07 PM Saturday, May 30, 2020: 
+para: DocumentFormat.OpenXml.Wordprocessing.Paragraph
+Log Entry 1:20:07 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:20:07 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:20:07 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:20:07 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:20:07 PM Saturday, May 30, 2020: 
+Text: «Var:PERSONTAX»
+Log Entry 1:20:07 PM Saturday, May 30, 2020: 
+s «Var:PERSONTAX»; s1 PERSONTAX; ValS1 300000
+Log Entry 1:20:07 PM Saturday, May 30, 2020: 
+Text: «Var:PERSONTAX»; s: 300000
+Log Entry 1:20:07 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:20:07 PM Saturday, May 30, 2020: 
+para: DocumentFormat.OpenXml.Wordprocessing.Paragraph
+Log Entry 1:20:07 PM Saturday, May 30, 2020: 
+Table: DocumentFormat.OpenXml.Wordprocessing.Table
+Log Entry 1:20:07 PM Saturday, May 30, 2020: 
+Table: DocumentFormat.OpenXml.Wordprocessing.Table
+Log Entry 1:20:07 PM Saturday, May 30, 2020: 
+Row: DocumentFormat.OpenXml.Wordprocessing.TableRow
+Log Entry 1:20:07 PM Saturday, May 30, 2020: 
+Cell: DocumentFormat.OpenXml.Wordprocessing.TableCell
+Log Entry 1:20:07 PM Saturday, May 30, 2020: 
+para: DocumentFormat.OpenXml.Wordprocessing.Paragraph
+Log Entry 1:20:07 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:20:07 PM Saturday, May 30, 2020: 
+Text: STT
+Log Entry 1:20:07 PM Saturday, May 30, 2020: 
+Text: STT; s: STT
+Log Entry 1:20:07 PM Saturday, May 30, 2020: 
+Cell: DocumentFormat.OpenXml.Wordprocessing.TableCell
+Log Entry 1:20:07 PM Saturday, May 30, 2020: 
+para: DocumentFormat.OpenXml.Wordprocessing.Paragraph
+Log Entry 1:20:07 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:20:07 PM Saturday, May 30, 2020: 
+Text: Tên phụ cấp
+Log Entry 1:20:07 PM Saturday, May 30, 2020: 
+Text: Tên phụ cấp; s: Tên phụ cấp
+Log Entry 1:20:07 PM Saturday, May 30, 2020: 
+Cell: DocumentFormat.OpenXml.Wordprocessing.TableCell
+Log Entry 1:20:07 PM Saturday, May 30, 2020: 
+para: DocumentFormat.OpenXml.Wordprocessing.Paragraph
+Log Entry 1:20:07 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:20:07 PM Saturday, May 30, 2020: 
+Text: Số tiền
+Log Entry 1:20:07 PM Saturday, May 30, 2020: 
+Text: Số tiền; s: Số tiền
+Log Entry 1:20:07 PM Saturday, May 30, 2020: 
+Cell: DocumentFormat.OpenXml.Wordprocessing.TableCell
+Log Entry 1:20:07 PM Saturday, May 30, 2020: 
+para: DocumentFormat.OpenXml.Wordprocessing.Paragraph
+Log Entry 1:20:07 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:20:07 PM Saturday, May 30, 2020: 
+Text: Ngày
+Log Entry 1:20:07 PM Saturday, May 30, 2020: 
+Text: Ngày; s: Ngày
+Log Entry 1:20:07 PM Saturday, May 30, 2020: 
+Row: DocumentFormat.OpenXml.Wordprocessing.TableRow
+Log Entry 1:20:07 PM Saturday, May 30, 2020: 
+Cell: DocumentFormat.OpenXml.Wordprocessing.TableCell
+Log Entry 1:20:07 PM Saturday, May 30, 2020: 
+para: DocumentFormat.OpenXml.Wordprocessing.Paragraph
+Log Entry 1:20:07 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:20:07 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:20:07 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:20:07 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:20:07 PM Saturday, May 30, 2020: 
+Text: «TableStart:DATA»
+Log Entry 1:20:07 PM Saturday, May 30, 2020: 
+Text: «TableStart:DATA»; s: «TableStart:DATA»
+Log Entry 1:20:07 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:20:07 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:20:07 PM Saturday, May 30, 2020: 
+Text:  
+Log Entry 1:20:07 PM Saturday, May 30, 2020: 
+Text:  ; s:  
+Log Entry 1:20:07 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:20:07 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:20:07 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:20:07 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:20:07 PM Saturday, May 30, 2020: 
+Text: «STT»
+Log Entry 1:20:07 PM Saturday, May 30, 2020: 
+Text: «STT»; s: «STT»
+Log Entry 1:20:07 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:20:07 PM Saturday, May 30, 2020: 
+Cell: DocumentFormat.OpenXml.Wordprocessing.TableCell
+Log Entry 1:20:07 PM Saturday, May 30, 2020: 
+para: DocumentFormat.OpenXml.Wordprocessing.Paragraph
+Log Entry 1:20:07 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:20:07 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:20:07 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:20:07 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:20:07 PM Saturday, May 30, 2020: 
+Text: «ALLOWANCENAME»
+Log Entry 1:20:07 PM Saturday, May 30, 2020: 
+Text: «ALLOWANCENAME»; s: «ALLOWANCENAME»
+Log Entry 1:20:07 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:20:07 PM Saturday, May 30, 2020: 
+Cell: DocumentFormat.OpenXml.Wordprocessing.TableCell
+Log Entry 1:20:07 PM Saturday, May 30, 2020: 
+para: DocumentFormat.OpenXml.Wordprocessing.Paragraph
+Log Entry 1:20:07 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:20:07 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:20:07 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:20:07 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:20:07 PM Saturday, May 30, 2020: 
+Text: «ALLOWANCE»
+Log Entry 1:20:07 PM Saturday, May 30, 2020: 
+Text: «ALLOWANCE»; s: «ALLOWANCE»
+Log Entry 1:20:07 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:20:07 PM Saturday, May 30, 2020: 
+Cell: DocumentFormat.OpenXml.Wordprocessing.TableCell
+Log Entry 1:20:07 PM Saturday, May 30, 2020: 
+para: DocumentFormat.OpenXml.Wordprocessing.Paragraph
+Log Entry 1:20:07 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:20:07 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:20:07 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:20:07 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:20:07 PM Saturday, May 30, 2020: 
+Text: «ALLOWANCEDATE»
+Log Entry 1:20:07 PM Saturday, May 30, 2020: 
+Text: «ALLOWANCEDATE»; s: «ALLOWANCEDATE»
+Log Entry 1:20:07 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:20:07 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:20:07 PM Saturday, May 30, 2020: 
+Text:  
+Log Entry 1:20:07 PM Saturday, May 30, 2020: 
+Text:  ; s:  
+Log Entry 1:20:07 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:20:07 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:20:07 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:20:07 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:20:07 PM Saturday, May 30, 2020: 
+Text: «TableEnd:DATA»
+Log Entry 1:20:07 PM Saturday, May 30, 2020: 
+Text: «TableEnd:DATA»; s: «TableEnd:DATA»
+Log Entry 1:20:07 PM Saturday, May 30, 2020: 
+DATA_Rows: 1
+Log Entry 1:20:07 PM Saturday, May 30, 2020: 
+DATA_Rows: 2
+Log Entry 1:20:07 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:20:07 PM Saturday, May 30, 2020: 
+para: DocumentFormat.OpenXml.Wordprocessing.Paragraph
+Log Entry 1:21:41 PM Saturday, May 30, 2020: 
+para: DocumentFormat.OpenXml.Wordprocessing.Paragraph
+Log Entry 1:21:41 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:21:41 PM Saturday, May 30, 2020: 
+Text: PHIẾU LƯƠNG; s: PHIẾU LƯƠNG
+Log Entry 1:21:41 PM Saturday, May 30, 2020: 
+Table: DocumentFormat.OpenXml.Wordprocessing.Table
+Log Entry 1:21:41 PM Saturday, May 30, 2020: 
+Table: DocumentFormat.OpenXml.Wordprocessing.Table
+Log Entry 1:21:41 PM Saturday, May 30, 2020: 
+Row: DocumentFormat.OpenXml.Wordprocessing.TableRow
+Log Entry 1:21:41 PM Saturday, May 30, 2020: 
+Cell: DocumentFormat.OpenXml.Wordprocessing.TableCell
+Log Entry 1:21:41 PM Saturday, May 30, 2020: 
+para: DocumentFormat.OpenXml.Wordprocessing.Paragraph
+Log Entry 1:21:41 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:21:41 PM Saturday, May 30, 2020: 
+Text: Kỳ lương
+Log Entry 1:21:41 PM Saturday, May 30, 2020: 
+Text: Kỳ lương; s: Kỳ lương
+Log Entry 1:21:41 PM Saturday, May 30, 2020: 
+Cell: DocumentFormat.OpenXml.Wordprocessing.TableCell
+Log Entry 1:21:41 PM Saturday, May 30, 2020: 
+para: DocumentFormat.OpenXml.Wordprocessing.Paragraph
+Log Entry 1:21:41 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:21:41 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:21:41 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:21:41 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:21:41 PM Saturday, May 30, 2020: 
+Text: «Var:AT_PERIODNAME»
+Log Entry 1:21:41 PM Saturday, May 30, 2020: 
+s «Var:AT_PERIODNAME»; s1 AT_PERIODNAME; ValS1 Kỳ lương tháng 2 năm 2020
+Log Entry 1:21:41 PM Saturday, May 30, 2020: 
+Text: «Var:AT_PERIODNAME»; s: Kỳ lương tháng 2 năm 2020
+Log Entry 1:21:41 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:21:41 PM Saturday, May 30, 2020: 
+Row: DocumentFormat.OpenXml.Wordprocessing.TableRow
+Log Entry 1:21:41 PM Saturday, May 30, 2020: 
+Cell: DocumentFormat.OpenXml.Wordprocessing.TableCell
+Log Entry 1:21:41 PM Saturday, May 30, 2020: 
+para: DocumentFormat.OpenXml.Wordprocessing.Paragraph
+Log Entry 1:21:41 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:21:41 PM Saturday, May 30, 2020: 
+Text: Họ tên
+Log Entry 1:21:41 PM Saturday, May 30, 2020: 
+Text: Họ tên; s: Họ tên
+Log Entry 1:21:41 PM Saturday, May 30, 2020: 
+Cell: DocumentFormat.OpenXml.Wordprocessing.TableCell
+Log Entry 1:21:41 PM Saturday, May 30, 2020: 
+para: DocumentFormat.OpenXml.Wordprocessing.Paragraph
+Log Entry 1:21:41 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:21:41 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:21:41 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:21:41 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:21:41 PM Saturday, May 30, 2020: 
+Text: «Var:HU_EMPLOYEENAME»
+Log Entry 1:21:41 PM Saturday, May 30, 2020: 
+s «Var:HU_EMPLOYEENAME»; s1 HU_EMPLOYEENAME; ValS1 Nguyễn Văn Nam
+Log Entry 1:21:41 PM Saturday, May 30, 2020: 
+Text: «Var:HU_EMPLOYEENAME»; s: Nguyễn Văn Nam
+Log Entry 1:21:41 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:21:41 PM Saturday, May 30, 2020: 
+Row: DocumentFormat.OpenXml.Wordprocessing.TableRow
+Log Entry 1:21:41 PM Saturday, May 30, 2020: 
+Cell: DocumentFormat.OpenXml.Wordprocessing.TableCell
+Log Entry 1:21:41 PM Saturday, May 30, 2020: 
+para: DocumentFormat.OpenXml.Wordprocessing.Paragraph
+Log Entry 1:21:41 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:21:41 PM Saturday, May 30, 2020: 
+Text: Mã
+Log Entry 1:21:41 PM Saturday, May 30, 2020: 
+Text: Mã; s: Mã
+Log Entry 1:21:41 PM Saturday, May 30, 2020: 
+Cell: DocumentFormat.OpenXml.Wordprocessing.TableCell
+Log Entry 1:21:41 PM Saturday, May 30, 2020: 
+para: DocumentFormat.OpenXml.Wordprocessing.Paragraph
+Log Entry 1:21:41 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:21:41 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:21:41 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:21:41 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:21:41 PM Saturday, May 30, 2020: 
+Text: «Var:HU_EMPLOYEECODE»
+Log Entry 1:21:41 PM Saturday, May 30, 2020: 
+s «Var:HU_EMPLOYEECODE»; s1 HU_EMPLOYEECODE; ValS1 00001
+Log Entry 1:21:41 PM Saturday, May 30, 2020: 
+Text: «Var:HU_EMPLOYEECODE»; s: 00001
+Log Entry 1:21:41 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:21:41 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:21:41 PM Saturday, May 30, 2020: 
+Text:  
+Log Entry 1:21:41 PM Saturday, May 30, 2020: 
+Text:  ; s:  
+Log Entry 1:21:41 PM Saturday, May 30, 2020: 
+Row: DocumentFormat.OpenXml.Wordprocessing.TableRow
+Log Entry 1:21:41 PM Saturday, May 30, 2020: 
+Cell: DocumentFormat.OpenXml.Wordprocessing.TableCell
+Log Entry 1:21:41 PM Saturday, May 30, 2020: 
+para: DocumentFormat.OpenXml.Wordprocessing.Paragraph
+Log Entry 1:21:41 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:21:41 PM Saturday, May 30, 2020: 
+Text: Đơn vị
+Log Entry 1:21:41 PM Saturday, May 30, 2020: 
+Text: Đơn vị; s: Đơn vị
+Log Entry 1:21:41 PM Saturday, May 30, 2020: 
+Cell: DocumentFormat.OpenXml.Wordprocessing.TableCell
+Log Entry 1:21:41 PM Saturday, May 30, 2020: 
+para: DocumentFormat.OpenXml.Wordprocessing.Paragraph
+Log Entry 1:21:41 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:21:41 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:21:41 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:21:41 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:21:41 PM Saturday, May 30, 2020: 
+Text: «Var:HU_ORGANIZATIONNAME»
+Log Entry 1:21:41 PM Saturday, May 30, 2020: 
+s «Var:HU_ORGANIZATIONNAME»; s1 HU_ORGANIZATIONNAME; ValS1 Công ty cổ phần phần mềm Văn Nam
+Log Entry 1:21:41 PM Saturday, May 30, 2020: 
+Text: «Var:HU_ORGANIZATIONNAME»; s: Công ty cổ phần phần mềm Văn Nam
+Log Entry 1:21:41 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:21:41 PM Saturday, May 30, 2020: 
+Row: DocumentFormat.OpenXml.Wordprocessing.TableRow
+Log Entry 1:21:41 PM Saturday, May 30, 2020: 
+Cell: DocumentFormat.OpenXml.Wordprocessing.TableCell
+Log Entry 1:21:41 PM Saturday, May 30, 2020: 
+para: DocumentFormat.OpenXml.Wordprocessing.Paragraph
+Log Entry 1:21:41 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:21:41 PM Saturday, May 30, 2020: 
+Text: Phụ cấp
+Log Entry 1:21:41 PM Saturday, May 30, 2020: 
+Text: Phụ cấp; s: Phụ cấp
+Log Entry 1:21:41 PM Saturday, May 30, 2020: 
+Cell: DocumentFormat.OpenXml.Wordprocessing.TableCell
+Log Entry 1:21:41 PM Saturday, May 30, 2020: 
+para: DocumentFormat.OpenXml.Wordprocessing.Paragraph
+Log Entry 1:21:41 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:21:41 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:21:41 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:21:41 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:21:41 PM Saturday, May 30, 2020: 
+Text: «Var:ALLOWANCE»
+Log Entry 1:21:41 PM Saturday, May 30, 2020: 
+s «Var:ALLOWANCE»; s1 ALLOWANCE; ValS1 10000000
+Log Entry 1:21:41 PM Saturday, May 30, 2020: 
+Text: «Var:ALLOWANCE»; s: 10000000
+Log Entry 1:21:41 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:21:41 PM Saturday, May 30, 2020: 
+Row: DocumentFormat.OpenXml.Wordprocessing.TableRow
+Log Entry 1:21:41 PM Saturday, May 30, 2020: 
+Cell: DocumentFormat.OpenXml.Wordprocessing.TableCell
+Log Entry 1:21:41 PM Saturday, May 30, 2020: 
+para: DocumentFormat.OpenXml.Wordprocessing.Paragraph
+Log Entry 1:21:41 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:21:41 PM Saturday, May 30, 2020: 
+Text: Tổng lương
+Log Entry 1:21:41 PM Saturday, May 30, 2020: 
+Text: Tổng lương; s: Tổng lương
+Log Entry 1:21:41 PM Saturday, May 30, 2020: 
+Cell: DocumentFormat.OpenXml.Wordprocessing.TableCell
+Log Entry 1:21:41 PM Saturday, May 30, 2020: 
+para: DocumentFormat.OpenXml.Wordprocessing.Paragraph
+Log Entry 1:21:41 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:21:41 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:21:41 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:21:41 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:21:41 PM Saturday, May 30, 2020: 
+Text: «Var:TOTAL»
+Log Entry 1:21:41 PM Saturday, May 30, 2020: 
+s «Var:TOTAL»; s1 TOTAL; ValS1 20000000
+Log Entry 1:21:41 PM Saturday, May 30, 2020: 
+Text: «Var:TOTAL»; s: 20000000
+Log Entry 1:21:41 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:21:41 PM Saturday, May 30, 2020: 
+Row: DocumentFormat.OpenXml.Wordprocessing.TableRow
+Log Entry 1:21:41 PM Saturday, May 30, 2020: 
+Cell: DocumentFormat.OpenXml.Wordprocessing.TableCell
+Log Entry 1:21:41 PM Saturday, May 30, 2020: 
+para: DocumentFormat.OpenXml.Wordprocessing.Paragraph
+Log Entry 1:21:41 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:21:41 PM Saturday, May 30, 2020: 
+Text: Thuế
+Log Entry 1:21:41 PM Saturday, May 30, 2020: 
+Text: Thuế; s: Thuế
+Log Entry 1:21:41 PM Saturday, May 30, 2020: 
+Cell: DocumentFormat.OpenXml.Wordprocessing.TableCell
+Log Entry 1:21:41 PM Saturday, May 30, 2020: 
+para: DocumentFormat.OpenXml.Wordprocessing.Paragraph
+Log Entry 1:21:41 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:21:41 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:21:41 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:21:41 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:21:41 PM Saturday, May 30, 2020: 
+Text: «Var:PERSONTAX»
+Log Entry 1:21:41 PM Saturday, May 30, 2020: 
+s «Var:PERSONTAX»; s1 PERSONTAX; ValS1 300000
+Log Entry 1:21:41 PM Saturday, May 30, 2020: 
+Text: «Var:PERSONTAX»; s: 300000
+Log Entry 1:21:41 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:21:41 PM Saturday, May 30, 2020: 
+para: DocumentFormat.OpenXml.Wordprocessing.Paragraph
+Log Entry 1:21:41 PM Saturday, May 30, 2020: 
+Table: DocumentFormat.OpenXml.Wordprocessing.Table
+Log Entry 1:21:41 PM Saturday, May 30, 2020: 
+Table: DocumentFormat.OpenXml.Wordprocessing.Table
+Log Entry 1:21:41 PM Saturday, May 30, 2020: 
+Row: DocumentFormat.OpenXml.Wordprocessing.TableRow
+Log Entry 1:21:41 PM Saturday, May 30, 2020: 
+Cell: DocumentFormat.OpenXml.Wordprocessing.TableCell
+Log Entry 1:21:41 PM Saturday, May 30, 2020: 
+para: DocumentFormat.OpenXml.Wordprocessing.Paragraph
+Log Entry 1:21:41 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:21:41 PM Saturday, May 30, 2020: 
+Text: STT
+Log Entry 1:21:41 PM Saturday, May 30, 2020: 
+Text: STT; s: STT
+Log Entry 1:21:41 PM Saturday, May 30, 2020: 
+Cell: DocumentFormat.OpenXml.Wordprocessing.TableCell
+Log Entry 1:21:41 PM Saturday, May 30, 2020: 
+para: DocumentFormat.OpenXml.Wordprocessing.Paragraph
+Log Entry 1:21:41 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:21:41 PM Saturday, May 30, 2020: 
+Text: Tên phụ cấp
+Log Entry 1:21:41 PM Saturday, May 30, 2020: 
+Text: Tên phụ cấp; s: Tên phụ cấp
+Log Entry 1:21:41 PM Saturday, May 30, 2020: 
+Cell: DocumentFormat.OpenXml.Wordprocessing.TableCell
+Log Entry 1:21:41 PM Saturday, May 30, 2020: 
+para: DocumentFormat.OpenXml.Wordprocessing.Paragraph
+Log Entry 1:21:41 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:21:41 PM Saturday, May 30, 2020: 
+Text: Số tiền
+Log Entry 1:21:41 PM Saturday, May 30, 2020: 
+Text: Số tiền; s: Số tiền
+Log Entry 1:21:41 PM Saturday, May 30, 2020: 
+Cell: DocumentFormat.OpenXml.Wordprocessing.TableCell
+Log Entry 1:21:41 PM Saturday, May 30, 2020: 
+para: DocumentFormat.OpenXml.Wordprocessing.Paragraph
+Log Entry 1:21:41 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:21:41 PM Saturday, May 30, 2020: 
+Text: Ngày
+Log Entry 1:21:41 PM Saturday, May 30, 2020: 
+Text: Ngày; s: Ngày
+Log Entry 1:21:41 PM Saturday, May 30, 2020: 
+Row: DocumentFormat.OpenXml.Wordprocessing.TableRow
+Log Entry 1:21:41 PM Saturday, May 30, 2020: 
+Cell: DocumentFormat.OpenXml.Wordprocessing.TableCell
+Log Entry 1:21:41 PM Saturday, May 30, 2020: 
+para: DocumentFormat.OpenXml.Wordprocessing.Paragraph
+Log Entry 1:21:41 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:21:41 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:21:41 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:21:41 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:21:41 PM Saturday, May 30, 2020: 
+Text: «TableStart:DATA»
+Log Entry 1:21:41 PM Saturday, May 30, 2020: 
+Text: «TableStart:DATA»; s: «TableStart:DATA»
+Log Entry 1:21:41 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:21:41 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:21:41 PM Saturday, May 30, 2020: 
+Text:  
+Log Entry 1:21:41 PM Saturday, May 30, 2020: 
+Text:  ; s:  
+Log Entry 1:21:41 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:21:41 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:21:41 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:21:41 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:21:41 PM Saturday, May 30, 2020: 
+Text: «STT»
+Log Entry 1:21:41 PM Saturday, May 30, 2020: 
+Text: «STT»; s: «STT»
+Log Entry 1:21:41 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:21:41 PM Saturday, May 30, 2020: 
+Cell: DocumentFormat.OpenXml.Wordprocessing.TableCell
+Log Entry 1:21:41 PM Saturday, May 30, 2020: 
+para: DocumentFormat.OpenXml.Wordprocessing.Paragraph
+Log Entry 1:21:41 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:21:41 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:21:41 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:21:41 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:21:41 PM Saturday, May 30, 2020: 
+Text: «ALLOWANCENAME»
+Log Entry 1:21:41 PM Saturday, May 30, 2020: 
+Text: «ALLOWANCENAME»; s: «ALLOWANCENAME»
+Log Entry 1:21:41 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:21:41 PM Saturday, May 30, 2020: 
+Cell: DocumentFormat.OpenXml.Wordprocessing.TableCell
+Log Entry 1:21:41 PM Saturday, May 30, 2020: 
+para: DocumentFormat.OpenXml.Wordprocessing.Paragraph
+Log Entry 1:21:41 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:21:41 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:21:41 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:21:41 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:21:41 PM Saturday, May 30, 2020: 
+Text: «ALLOWANCE»
+Log Entry 1:21:41 PM Saturday, May 30, 2020: 
+Text: «ALLOWANCE»; s: «ALLOWANCE»
+Log Entry 1:21:41 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:21:41 PM Saturday, May 30, 2020: 
+Cell: DocumentFormat.OpenXml.Wordprocessing.TableCell
+Log Entry 1:21:41 PM Saturday, May 30, 2020: 
+para: DocumentFormat.OpenXml.Wordprocessing.Paragraph
+Log Entry 1:21:41 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:21:41 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:21:41 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:21:41 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:21:41 PM Saturday, May 30, 2020: 
+Text: «ALLOWANCEDATE»
+Log Entry 1:21:41 PM Saturday, May 30, 2020: 
+Text: «ALLOWANCEDATE»; s: «ALLOWANCEDATE»
+Log Entry 1:21:41 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:21:41 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:21:41 PM Saturday, May 30, 2020: 
+Text:  
+Log Entry 1:21:41 PM Saturday, May 30, 2020: 
+Text:  ; s:  
+Log Entry 1:21:41 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:21:41 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:21:41 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:21:41 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:21:41 PM Saturday, May 30, 2020: 
+Text: «TableEnd:DATA»
+Log Entry 1:21:41 PM Saturday, May 30, 2020: 
+Text: «TableEnd:DATA»; s: «TableEnd:DATA»
+Log Entry 1:21:41 PM Saturday, May 30, 2020: 
+DATA_Rows: 1
+Log Entry 1:21:41 PM Saturday, May 30, 2020: 
+DATA_Rows: 2
+Log Entry 1:21:41 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:21:41 PM Saturday, May 30, 2020: 
+para: DocumentFormat.OpenXml.Wordprocessing.Paragraph
+Log Entry 1:22:01 PM Saturday, May 30, 2020: 
+para: DocumentFormat.OpenXml.Wordprocessing.Paragraph
+Log Entry 1:22:01 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:22:02 PM Saturday, May 30, 2020: 
+Text: PHIẾU LƯƠNG; s: PHIẾU LƯƠNG
+Log Entry 1:22:02 PM Saturday, May 30, 2020: 
+Table: DocumentFormat.OpenXml.Wordprocessing.Table
+Log Entry 1:22:02 PM Saturday, May 30, 2020: 
+Table: DocumentFormat.OpenXml.Wordprocessing.Table
+Log Entry 1:22:02 PM Saturday, May 30, 2020: 
+Row: DocumentFormat.OpenXml.Wordprocessing.TableRow
+Log Entry 1:22:02 PM Saturday, May 30, 2020: 
+Cell: DocumentFormat.OpenXml.Wordprocessing.TableCell
+Log Entry 1:22:02 PM Saturday, May 30, 2020: 
+para: DocumentFormat.OpenXml.Wordprocessing.Paragraph
+Log Entry 1:22:02 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:22:02 PM Saturday, May 30, 2020: 
+Text: Kỳ lương
+Log Entry 1:22:02 PM Saturday, May 30, 2020: 
+Text: Kỳ lương; s: Kỳ lương
+Log Entry 1:22:02 PM Saturday, May 30, 2020: 
+Cell: DocumentFormat.OpenXml.Wordprocessing.TableCell
+Log Entry 1:22:02 PM Saturday, May 30, 2020: 
+para: DocumentFormat.OpenXml.Wordprocessing.Paragraph
+Log Entry 1:22:02 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:22:02 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:22:02 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:22:02 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:22:02 PM Saturday, May 30, 2020: 
+Text: «Var:AT_PERIODNAME»
+Log Entry 1:22:02 PM Saturday, May 30, 2020: 
+s «Var:AT_PERIODNAME»; s1 AT_PERIODNAME; ValS1 Kỳ lương tháng 2 năm 2020
+Log Entry 1:22:02 PM Saturday, May 30, 2020: 
+Text: «Var:AT_PERIODNAME»; s: Kỳ lương tháng 2 năm 2020
+Log Entry 1:22:02 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:22:02 PM Saturday, May 30, 2020: 
+Row: DocumentFormat.OpenXml.Wordprocessing.TableRow
+Log Entry 1:22:02 PM Saturday, May 30, 2020: 
+Cell: DocumentFormat.OpenXml.Wordprocessing.TableCell
+Log Entry 1:22:02 PM Saturday, May 30, 2020: 
+para: DocumentFormat.OpenXml.Wordprocessing.Paragraph
+Log Entry 1:22:02 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:22:02 PM Saturday, May 30, 2020: 
+Text: Họ tên
+Log Entry 1:22:02 PM Saturday, May 30, 2020: 
+Text: Họ tên; s: Họ tên
+Log Entry 1:22:02 PM Saturday, May 30, 2020: 
+Cell: DocumentFormat.OpenXml.Wordprocessing.TableCell
+Log Entry 1:22:02 PM Saturday, May 30, 2020: 
+para: DocumentFormat.OpenXml.Wordprocessing.Paragraph
+Log Entry 1:22:02 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:22:02 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:22:02 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:22:02 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:22:02 PM Saturday, May 30, 2020: 
+Text: «Var:HU_EMPLOYEENAME»
+Log Entry 1:22:02 PM Saturday, May 30, 2020: 
+s «Var:HU_EMPLOYEENAME»; s1 HU_EMPLOYEENAME; ValS1 Nguyễn Văn Nam
+Log Entry 1:22:02 PM Saturday, May 30, 2020: 
+Text: «Var:HU_EMPLOYEENAME»; s: Nguyễn Văn Nam
+Log Entry 1:22:02 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:22:02 PM Saturday, May 30, 2020: 
+Row: DocumentFormat.OpenXml.Wordprocessing.TableRow
+Log Entry 1:22:02 PM Saturday, May 30, 2020: 
+Cell: DocumentFormat.OpenXml.Wordprocessing.TableCell
+Log Entry 1:22:02 PM Saturday, May 30, 2020: 
+para: DocumentFormat.OpenXml.Wordprocessing.Paragraph
+Log Entry 1:22:02 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:22:02 PM Saturday, May 30, 2020: 
+Text: Mã
+Log Entry 1:22:02 PM Saturday, May 30, 2020: 
+Text: Mã; s: Mã
+Log Entry 1:22:02 PM Saturday, May 30, 2020: 
+Cell: DocumentFormat.OpenXml.Wordprocessing.TableCell
+Log Entry 1:22:02 PM Saturday, May 30, 2020: 
+para: DocumentFormat.OpenXml.Wordprocessing.Paragraph
+Log Entry 1:22:02 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:22:02 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:22:02 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:22:02 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:22:02 PM Saturday, May 30, 2020: 
+Text: «Var:HU_EMPLOYEECODE»
+Log Entry 1:22:02 PM Saturday, May 30, 2020: 
+s «Var:HU_EMPLOYEECODE»; s1 HU_EMPLOYEECODE; ValS1 00001
+Log Entry 1:22:02 PM Saturday, May 30, 2020: 
+Text: «Var:HU_EMPLOYEECODE»; s: 00001
+Log Entry 1:22:02 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:22:02 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:22:02 PM Saturday, May 30, 2020: 
+Text:  
+Log Entry 1:22:02 PM Saturday, May 30, 2020: 
+Text:  ; s:  
+Log Entry 1:22:02 PM Saturday, May 30, 2020: 
+Row: DocumentFormat.OpenXml.Wordprocessing.TableRow
+Log Entry 1:22:02 PM Saturday, May 30, 2020: 
+Cell: DocumentFormat.OpenXml.Wordprocessing.TableCell
+Log Entry 1:22:02 PM Saturday, May 30, 2020: 
+para: DocumentFormat.OpenXml.Wordprocessing.Paragraph
+Log Entry 1:22:02 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:22:02 PM Saturday, May 30, 2020: 
+Text: Đơn vị
+Log Entry 1:22:02 PM Saturday, May 30, 2020: 
+Text: Đơn vị; s: Đơn vị
+Log Entry 1:22:02 PM Saturday, May 30, 2020: 
+Cell: DocumentFormat.OpenXml.Wordprocessing.TableCell
+Log Entry 1:22:02 PM Saturday, May 30, 2020: 
+para: DocumentFormat.OpenXml.Wordprocessing.Paragraph
+Log Entry 1:22:02 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:22:02 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:22:02 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:22:02 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:22:02 PM Saturday, May 30, 2020: 
+Text: «Var:HU_ORGANIZATIONNAME»
+Log Entry 1:22:02 PM Saturday, May 30, 2020: 
+s «Var:HU_ORGANIZATIONNAME»; s1 HU_ORGANIZATIONNAME; ValS1 Công ty cổ phần phần mềm Văn Nam
+Log Entry 1:22:02 PM Saturday, May 30, 2020: 
+Text: «Var:HU_ORGANIZATIONNAME»; s: Công ty cổ phần phần mềm Văn Nam
+Log Entry 1:22:02 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:22:02 PM Saturday, May 30, 2020: 
+Row: DocumentFormat.OpenXml.Wordprocessing.TableRow
+Log Entry 1:22:02 PM Saturday, May 30, 2020: 
+Cell: DocumentFormat.OpenXml.Wordprocessing.TableCell
+Log Entry 1:22:02 PM Saturday, May 30, 2020: 
+para: DocumentFormat.OpenXml.Wordprocessing.Paragraph
+Log Entry 1:22:02 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:22:02 PM Saturday, May 30, 2020: 
+Text: Phụ cấp
+Log Entry 1:22:02 PM Saturday, May 30, 2020: 
+Text: Phụ cấp; s: Phụ cấp
+Log Entry 1:22:02 PM Saturday, May 30, 2020: 
+Cell: DocumentFormat.OpenXml.Wordprocessing.TableCell
+Log Entry 1:22:02 PM Saturday, May 30, 2020: 
+para: DocumentFormat.OpenXml.Wordprocessing.Paragraph
+Log Entry 1:22:02 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:22:02 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:22:02 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:22:02 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:22:02 PM Saturday, May 30, 2020: 
+Text: «Var:ALLOWANCE»
+Log Entry 1:22:02 PM Saturday, May 30, 2020: 
+s «Var:ALLOWANCE»; s1 ALLOWANCE; ValS1 10000000
+Log Entry 1:22:02 PM Saturday, May 30, 2020: 
+Text: «Var:ALLOWANCE»; s: 10000000
+Log Entry 1:22:02 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:22:02 PM Saturday, May 30, 2020: 
+Row: DocumentFormat.OpenXml.Wordprocessing.TableRow
+Log Entry 1:22:02 PM Saturday, May 30, 2020: 
+Cell: DocumentFormat.OpenXml.Wordprocessing.TableCell
+Log Entry 1:22:02 PM Saturday, May 30, 2020: 
+para: DocumentFormat.OpenXml.Wordprocessing.Paragraph
+Log Entry 1:22:02 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:22:02 PM Saturday, May 30, 2020: 
+Text: Tổng lương
+Log Entry 1:22:02 PM Saturday, May 30, 2020: 
+Text: Tổng lương; s: Tổng lương
+Log Entry 1:22:02 PM Saturday, May 30, 2020: 
+Cell: DocumentFormat.OpenXml.Wordprocessing.TableCell
+Log Entry 1:22:02 PM Saturday, May 30, 2020: 
+para: DocumentFormat.OpenXml.Wordprocessing.Paragraph
+Log Entry 1:22:02 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:22:02 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:22:02 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:22:02 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:22:02 PM Saturday, May 30, 2020: 
+Text: «Var:TOTAL»
+Log Entry 1:22:02 PM Saturday, May 30, 2020: 
+s «Var:TOTAL»; s1 TOTAL; ValS1 20000000
+Log Entry 1:22:02 PM Saturday, May 30, 2020: 
+Text: «Var:TOTAL»; s: 20000000
+Log Entry 1:22:02 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:22:02 PM Saturday, May 30, 2020: 
+Row: DocumentFormat.OpenXml.Wordprocessing.TableRow
+Log Entry 1:22:02 PM Saturday, May 30, 2020: 
+Cell: DocumentFormat.OpenXml.Wordprocessing.TableCell
+Log Entry 1:22:02 PM Saturday, May 30, 2020: 
+para: DocumentFormat.OpenXml.Wordprocessing.Paragraph
+Log Entry 1:22:02 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:22:02 PM Saturday, May 30, 2020: 
+Text: Thuế
+Log Entry 1:22:02 PM Saturday, May 30, 2020: 
+Text: Thuế; s: Thuế
+Log Entry 1:22:02 PM Saturday, May 30, 2020: 
+Cell: DocumentFormat.OpenXml.Wordprocessing.TableCell
+Log Entry 1:22:02 PM Saturday, May 30, 2020: 
+para: DocumentFormat.OpenXml.Wordprocessing.Paragraph
+Log Entry 1:22:02 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:22:02 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:22:02 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:22:02 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:22:02 PM Saturday, May 30, 2020: 
+Text: «Var:PERSONTAX»
+Log Entry 1:22:02 PM Saturday, May 30, 2020: 
+s «Var:PERSONTAX»; s1 PERSONTAX; ValS1 300000
+Log Entry 1:22:02 PM Saturday, May 30, 2020: 
+Text: «Var:PERSONTAX»; s: 300000
+Log Entry 1:22:02 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:22:02 PM Saturday, May 30, 2020: 
+para: DocumentFormat.OpenXml.Wordprocessing.Paragraph
+Log Entry 1:22:02 PM Saturday, May 30, 2020: 
+Table: DocumentFormat.OpenXml.Wordprocessing.Table
+Log Entry 1:22:02 PM Saturday, May 30, 2020: 
+Table: DocumentFormat.OpenXml.Wordprocessing.Table
+Log Entry 1:22:02 PM Saturday, May 30, 2020: 
+Row: DocumentFormat.OpenXml.Wordprocessing.TableRow
+Log Entry 1:22:02 PM Saturday, May 30, 2020: 
+Cell: DocumentFormat.OpenXml.Wordprocessing.TableCell
+Log Entry 1:22:02 PM Saturday, May 30, 2020: 
+para: DocumentFormat.OpenXml.Wordprocessing.Paragraph
+Log Entry 1:22:02 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:22:02 PM Saturday, May 30, 2020: 
+Text: STT
+Log Entry 1:22:02 PM Saturday, May 30, 2020: 
+Text: STT; s: STT
+Log Entry 1:22:02 PM Saturday, May 30, 2020: 
+Cell: DocumentFormat.OpenXml.Wordprocessing.TableCell
+Log Entry 1:22:02 PM Saturday, May 30, 2020: 
+para: DocumentFormat.OpenXml.Wordprocessing.Paragraph
+Log Entry 1:22:02 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:22:02 PM Saturday, May 30, 2020: 
+Text: Tên phụ cấp
+Log Entry 1:22:02 PM Saturday, May 30, 2020: 
+Text: Tên phụ cấp; s: Tên phụ cấp
+Log Entry 1:22:02 PM Saturday, May 30, 2020: 
+Cell: DocumentFormat.OpenXml.Wordprocessing.TableCell
+Log Entry 1:22:02 PM Saturday, May 30, 2020: 
+para: DocumentFormat.OpenXml.Wordprocessing.Paragraph
+Log Entry 1:22:02 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:22:02 PM Saturday, May 30, 2020: 
+Text: Số tiền
+Log Entry 1:22:02 PM Saturday, May 30, 2020: 
+Text: Số tiền; s: Số tiền
+Log Entry 1:22:02 PM Saturday, May 30, 2020: 
+Cell: DocumentFormat.OpenXml.Wordprocessing.TableCell
+Log Entry 1:22:02 PM Saturday, May 30, 2020: 
+para: DocumentFormat.OpenXml.Wordprocessing.Paragraph
+Log Entry 1:22:02 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:22:02 PM Saturday, May 30, 2020: 
+Text: Ngày
+Log Entry 1:22:02 PM Saturday, May 30, 2020: 
+Text: Ngày; s: Ngày
+Log Entry 1:22:02 PM Saturday, May 30, 2020: 
+Row: DocumentFormat.OpenXml.Wordprocessing.TableRow
+Log Entry 1:22:02 PM Saturday, May 30, 2020: 
+Cell: DocumentFormat.OpenXml.Wordprocessing.TableCell
+Log Entry 1:22:02 PM Saturday, May 30, 2020: 
+para: DocumentFormat.OpenXml.Wordprocessing.Paragraph
+Log Entry 1:22:02 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:22:02 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:22:02 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:22:02 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:22:02 PM Saturday, May 30, 2020: 
+Text: «TableStart:DATA»
+Log Entry 1:22:02 PM Saturday, May 30, 2020: 
+Text: «TableStart:DATA»; s: «TableStart:DATA»
+Log Entry 1:22:02 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:22:02 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:22:02 PM Saturday, May 30, 2020: 
+Text:  
+Log Entry 1:22:02 PM Saturday, May 30, 2020: 
+Text:  ; s:  
+Log Entry 1:22:02 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:22:02 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:22:02 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:22:02 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:22:02 PM Saturday, May 30, 2020: 
+Text: «STT»
+Log Entry 1:22:02 PM Saturday, May 30, 2020: 
+Text: «STT»; s: «STT»
+Log Entry 1:22:02 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:22:02 PM Saturday, May 30, 2020: 
+Cell: DocumentFormat.OpenXml.Wordprocessing.TableCell
+Log Entry 1:22:02 PM Saturday, May 30, 2020: 
+para: DocumentFormat.OpenXml.Wordprocessing.Paragraph
+Log Entry 1:22:02 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:22:02 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:22:02 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:22:02 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:22:02 PM Saturday, May 30, 2020: 
+Text: «ALLOWANCENAME»
+Log Entry 1:22:02 PM Saturday, May 30, 2020: 
+Text: «ALLOWANCENAME»; s: «ALLOWANCENAME»
+Log Entry 1:22:02 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:22:02 PM Saturday, May 30, 2020: 
+Cell: DocumentFormat.OpenXml.Wordprocessing.TableCell
+Log Entry 1:22:02 PM Saturday, May 30, 2020: 
+para: DocumentFormat.OpenXml.Wordprocessing.Paragraph
+Log Entry 1:22:02 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:22:02 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:22:02 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:22:02 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:22:02 PM Saturday, May 30, 2020: 
+Text: «ALLOWANCE»
+Log Entry 1:22:02 PM Saturday, May 30, 2020: 
+Text: «ALLOWANCE»; s: «ALLOWANCE»
+Log Entry 1:22:02 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:22:02 PM Saturday, May 30, 2020: 
+Cell: DocumentFormat.OpenXml.Wordprocessing.TableCell
+Log Entry 1:22:02 PM Saturday, May 30, 2020: 
+para: DocumentFormat.OpenXml.Wordprocessing.Paragraph
+Log Entry 1:22:02 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:22:02 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:22:02 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:22:02 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:22:02 PM Saturday, May 30, 2020: 
+Text: «ALLOWANCEDATE»
+Log Entry 1:22:02 PM Saturday, May 30, 2020: 
+Text: «ALLOWANCEDATE»; s: «ALLOWANCEDATE»
+Log Entry 1:22:02 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:22:02 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:22:02 PM Saturday, May 30, 2020: 
+Text:  
+Log Entry 1:22:02 PM Saturday, May 30, 2020: 
+Text:  ; s:  
+Log Entry 1:22:02 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:22:02 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:22:02 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:22:02 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:22:02 PM Saturday, May 30, 2020: 
+Text: «TableEnd:DATA»
+Log Entry 1:22:02 PM Saturday, May 30, 2020: 
+Text: «TableEnd:DATA»; s: «TableEnd:DATA»
+Log Entry 1:22:02 PM Saturday, May 30, 2020: 
+DATA_Rows: 1
+Log Entry 1:22:02 PM Saturday, May 30, 2020: 
+DATA_Rows: 2
+Log Entry 1:22:02 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:22:02 PM Saturday, May 30, 2020: 
+para: DocumentFormat.OpenXml.Wordprocessing.Paragraph
+Log Entry 1:23:26 PM Saturday, May 30, 2020: 
+para: DocumentFormat.OpenXml.Wordprocessing.Paragraph
+Log Entry 1:23:26 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:23:26 PM Saturday, May 30, 2020: 
+Text: PHIẾU LƯƠNG; s: PHIẾU LƯƠNG
+Log Entry 1:23:26 PM Saturday, May 30, 2020: 
+Table: DocumentFormat.OpenXml.Wordprocessing.Table
+Log Entry 1:23:26 PM Saturday, May 30, 2020: 
+Table: DocumentFormat.OpenXml.Wordprocessing.Table
+Log Entry 1:23:26 PM Saturday, May 30, 2020: 
+Row: DocumentFormat.OpenXml.Wordprocessing.TableRow
+Log Entry 1:23:26 PM Saturday, May 30, 2020: 
+Cell: DocumentFormat.OpenXml.Wordprocessing.TableCell
+Log Entry 1:23:26 PM Saturday, May 30, 2020: 
+para: DocumentFormat.OpenXml.Wordprocessing.Paragraph
+Log Entry 1:23:26 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:23:26 PM Saturday, May 30, 2020: 
+Text: Kỳ lương
+Log Entry 1:23:26 PM Saturday, May 30, 2020: 
+Text: Kỳ lương; s: Kỳ lương
+Log Entry 1:23:26 PM Saturday, May 30, 2020: 
+Cell: DocumentFormat.OpenXml.Wordprocessing.TableCell
+Log Entry 1:23:26 PM Saturday, May 30, 2020: 
+para: DocumentFormat.OpenXml.Wordprocessing.Paragraph
+Log Entry 1:23:26 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:23:26 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:23:26 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:23:26 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:23:26 PM Saturday, May 30, 2020: 
+Text: «Var:AT_PERIODNAME»
+Log Entry 1:23:26 PM Saturday, May 30, 2020: 
+s «Var:AT_PERIODNAME»; s1 AT_PERIODNAME; ValS1 Kỳ lương tháng 2 năm 2020
+Log Entry 1:23:26 PM Saturday, May 30, 2020: 
+Text: «Var:AT_PERIODNAME»; s: Kỳ lương tháng 2 năm 2020
+Log Entry 1:23:26 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:23:26 PM Saturday, May 30, 2020: 
+Row: DocumentFormat.OpenXml.Wordprocessing.TableRow
+Log Entry 1:23:26 PM Saturday, May 30, 2020: 
+Cell: DocumentFormat.OpenXml.Wordprocessing.TableCell
+Log Entry 1:23:26 PM Saturday, May 30, 2020: 
+para: DocumentFormat.OpenXml.Wordprocessing.Paragraph
+Log Entry 1:23:26 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:23:26 PM Saturday, May 30, 2020: 
+Text: Họ tên
+Log Entry 1:23:26 PM Saturday, May 30, 2020: 
+Text: Họ tên; s: Họ tên
+Log Entry 1:23:26 PM Saturday, May 30, 2020: 
+Cell: DocumentFormat.OpenXml.Wordprocessing.TableCell
+Log Entry 1:23:26 PM Saturday, May 30, 2020: 
+para: DocumentFormat.OpenXml.Wordprocessing.Paragraph
+Log Entry 1:23:26 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:23:26 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:23:26 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:23:26 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:23:26 PM Saturday, May 30, 2020: 
+Text: «Var:HU_EMPLOYEENAME»
+Log Entry 1:23:26 PM Saturday, May 30, 2020: 
+s «Var:HU_EMPLOYEENAME»; s1 HU_EMPLOYEENAME; ValS1 Nguyễn Văn Nam
+Log Entry 1:23:26 PM Saturday, May 30, 2020: 
+Text: «Var:HU_EMPLOYEENAME»; s: Nguyễn Văn Nam
+Log Entry 1:23:26 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:23:26 PM Saturday, May 30, 2020: 
+Row: DocumentFormat.OpenXml.Wordprocessing.TableRow
+Log Entry 1:23:26 PM Saturday, May 30, 2020: 
+Cell: DocumentFormat.OpenXml.Wordprocessing.TableCell
+Log Entry 1:23:26 PM Saturday, May 30, 2020: 
+para: DocumentFormat.OpenXml.Wordprocessing.Paragraph
+Log Entry 1:23:26 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:23:26 PM Saturday, May 30, 2020: 
+Text: Mã
+Log Entry 1:23:26 PM Saturday, May 30, 2020: 
+Text: Mã; s: Mã
+Log Entry 1:23:26 PM Saturday, May 30, 2020: 
+Cell: DocumentFormat.OpenXml.Wordprocessing.TableCell
+Log Entry 1:23:26 PM Saturday, May 30, 2020: 
+para: DocumentFormat.OpenXml.Wordprocessing.Paragraph
+Log Entry 1:23:26 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:23:26 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:23:26 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:23:26 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:23:26 PM Saturday, May 30, 2020: 
+Text: «Var:HU_EMPLOYEECODE»
+Log Entry 1:23:26 PM Saturday, May 30, 2020: 
+s «Var:HU_EMPLOYEECODE»; s1 HU_EMPLOYEECODE; ValS1 00001
+Log Entry 1:23:26 PM Saturday, May 30, 2020: 
+Text: «Var:HU_EMPLOYEECODE»; s: 00001
+Log Entry 1:23:26 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:23:26 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:23:26 PM Saturday, May 30, 2020: 
+Text:  
+Log Entry 1:23:26 PM Saturday, May 30, 2020: 
+Text:  ; s:  
+Log Entry 1:23:26 PM Saturday, May 30, 2020: 
+Row: DocumentFormat.OpenXml.Wordprocessing.TableRow
+Log Entry 1:23:26 PM Saturday, May 30, 2020: 
+Cell: DocumentFormat.OpenXml.Wordprocessing.TableCell
+Log Entry 1:23:26 PM Saturday, May 30, 2020: 
+para: DocumentFormat.OpenXml.Wordprocessing.Paragraph
+Log Entry 1:23:26 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:23:26 PM Saturday, May 30, 2020: 
+Text: Đơn vị
+Log Entry 1:23:26 PM Saturday, May 30, 2020: 
+Text: Đơn vị; s: Đơn vị
+Log Entry 1:23:26 PM Saturday, May 30, 2020: 
+Cell: DocumentFormat.OpenXml.Wordprocessing.TableCell
+Log Entry 1:23:26 PM Saturday, May 30, 2020: 
+para: DocumentFormat.OpenXml.Wordprocessing.Paragraph
+Log Entry 1:23:26 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:23:26 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:23:26 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:23:26 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:23:26 PM Saturday, May 30, 2020: 
+Text: «Var:HU_ORGANIZATIONNAME»
+Log Entry 1:23:26 PM Saturday, May 30, 2020: 
+s «Var:HU_ORGANIZATIONNAME»; s1 HU_ORGANIZATIONNAME; ValS1 Công ty cổ phần phần mềm Văn Nam
+Log Entry 1:23:26 PM Saturday, May 30, 2020: 
+Text: «Var:HU_ORGANIZATIONNAME»; s: Công ty cổ phần phần mềm Văn Nam
+Log Entry 1:23:26 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:23:26 PM Saturday, May 30, 2020: 
+Row: DocumentFormat.OpenXml.Wordprocessing.TableRow
+Log Entry 1:23:26 PM Saturday, May 30, 2020: 
+Cell: DocumentFormat.OpenXml.Wordprocessing.TableCell
+Log Entry 1:23:26 PM Saturday, May 30, 2020: 
+para: DocumentFormat.OpenXml.Wordprocessing.Paragraph
+Log Entry 1:23:26 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:23:26 PM Saturday, May 30, 2020: 
+Text: Phụ cấp
+Log Entry 1:23:26 PM Saturday, May 30, 2020: 
+Text: Phụ cấp; s: Phụ cấp
+Log Entry 1:23:26 PM Saturday, May 30, 2020: 
+Cell: DocumentFormat.OpenXml.Wordprocessing.TableCell
+Log Entry 1:23:26 PM Saturday, May 30, 2020: 
+para: DocumentFormat.OpenXml.Wordprocessing.Paragraph
+Log Entry 1:23:26 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:23:26 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:23:26 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:23:26 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:23:26 PM Saturday, May 30, 2020: 
+Text: «Var:ALLOWANCE»
+Log Entry 1:23:26 PM Saturday, May 30, 2020: 
+s «Var:ALLOWANCE»; s1 ALLOWANCE; ValS1 10000000
+Log Entry 1:23:26 PM Saturday, May 30, 2020: 
+Text: «Var:ALLOWANCE»; s: 10000000
+Log Entry 1:23:26 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:23:26 PM Saturday, May 30, 2020: 
+Row: DocumentFormat.OpenXml.Wordprocessing.TableRow
+Log Entry 1:23:26 PM Saturday, May 30, 2020: 
+Cell: DocumentFormat.OpenXml.Wordprocessing.TableCell
+Log Entry 1:23:26 PM Saturday, May 30, 2020: 
+para: DocumentFormat.OpenXml.Wordprocessing.Paragraph
+Log Entry 1:23:26 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:23:26 PM Saturday, May 30, 2020: 
+Text: Tổng lương
+Log Entry 1:23:26 PM Saturday, May 30, 2020: 
+Text: Tổng lương; s: Tổng lương
+Log Entry 1:23:26 PM Saturday, May 30, 2020: 
+Cell: DocumentFormat.OpenXml.Wordprocessing.TableCell
+Log Entry 1:23:26 PM Saturday, May 30, 2020: 
+para: DocumentFormat.OpenXml.Wordprocessing.Paragraph
+Log Entry 1:23:26 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:23:26 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:23:26 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:23:26 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:23:26 PM Saturday, May 30, 2020: 
+Text: «Var:TOTAL»
+Log Entry 1:23:26 PM Saturday, May 30, 2020: 
+s «Var:TOTAL»; s1 TOTAL; ValS1 20000000
+Log Entry 1:23:26 PM Saturday, May 30, 2020: 
+Text: «Var:TOTAL»; s: 20000000
+Log Entry 1:23:26 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:23:26 PM Saturday, May 30, 2020: 
+Row: DocumentFormat.OpenXml.Wordprocessing.TableRow
+Log Entry 1:23:26 PM Saturday, May 30, 2020: 
+Cell: DocumentFormat.OpenXml.Wordprocessing.TableCell
+Log Entry 1:23:26 PM Saturday, May 30, 2020: 
+para: DocumentFormat.OpenXml.Wordprocessing.Paragraph
+Log Entry 1:23:26 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:23:26 PM Saturday, May 30, 2020: 
+Text: Thuế
+Log Entry 1:23:26 PM Saturday, May 30, 2020: 
+Text: Thuế; s: Thuế
+Log Entry 1:23:26 PM Saturday, May 30, 2020: 
+Cell: DocumentFormat.OpenXml.Wordprocessing.TableCell
+Log Entry 1:23:26 PM Saturday, May 30, 2020: 
+para: DocumentFormat.OpenXml.Wordprocessing.Paragraph
+Log Entry 1:23:26 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:23:26 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:23:26 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:23:26 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:23:26 PM Saturday, May 30, 2020: 
+Text: «Var:PERSONTAX»
+Log Entry 1:23:26 PM Saturday, May 30, 2020: 
+s «Var:PERSONTAX»; s1 PERSONTAX; ValS1 300000
+Log Entry 1:23:26 PM Saturday, May 30, 2020: 
+Text: «Var:PERSONTAX»; s: 300000
+Log Entry 1:23:26 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:23:26 PM Saturday, May 30, 2020: 
+para: DocumentFormat.OpenXml.Wordprocessing.Paragraph
+Log Entry 1:23:26 PM Saturday, May 30, 2020: 
+Table: DocumentFormat.OpenXml.Wordprocessing.Table
+Log Entry 1:23:26 PM Saturday, May 30, 2020: 
+Table: DocumentFormat.OpenXml.Wordprocessing.Table
+Log Entry 1:23:26 PM Saturday, May 30, 2020: 
+Row: DocumentFormat.OpenXml.Wordprocessing.TableRow
+Log Entry 1:23:26 PM Saturday, May 30, 2020: 
+Cell: DocumentFormat.OpenXml.Wordprocessing.TableCell
+Log Entry 1:23:26 PM Saturday, May 30, 2020: 
+para: DocumentFormat.OpenXml.Wordprocessing.Paragraph
+Log Entry 1:23:26 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:23:26 PM Saturday, May 30, 2020: 
+Text: STT
+Log Entry 1:23:26 PM Saturday, May 30, 2020: 
+Text: STT; s: STT
+Log Entry 1:23:26 PM Saturday, May 30, 2020: 
+Cell: DocumentFormat.OpenXml.Wordprocessing.TableCell
+Log Entry 1:23:26 PM Saturday, May 30, 2020: 
+para: DocumentFormat.OpenXml.Wordprocessing.Paragraph
+Log Entry 1:23:26 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:23:26 PM Saturday, May 30, 2020: 
+Text: Tên phụ cấp
+Log Entry 1:23:26 PM Saturday, May 30, 2020: 
+Text: Tên phụ cấp; s: Tên phụ cấp
+Log Entry 1:23:26 PM Saturday, May 30, 2020: 
+Cell: DocumentFormat.OpenXml.Wordprocessing.TableCell
+Log Entry 1:23:26 PM Saturday, May 30, 2020: 
+para: DocumentFormat.OpenXml.Wordprocessing.Paragraph
+Log Entry 1:23:26 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:23:26 PM Saturday, May 30, 2020: 
+Text: Số tiền
+Log Entry 1:23:26 PM Saturday, May 30, 2020: 
+Text: Số tiền; s: Số tiền
+Log Entry 1:23:26 PM Saturday, May 30, 2020: 
+Cell: DocumentFormat.OpenXml.Wordprocessing.TableCell
+Log Entry 1:23:26 PM Saturday, May 30, 2020: 
+para: DocumentFormat.OpenXml.Wordprocessing.Paragraph
+Log Entry 1:23:26 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:23:26 PM Saturday, May 30, 2020: 
+Text: Ngày
+Log Entry 1:23:26 PM Saturday, May 30, 2020: 
+Text: Ngày; s: Ngày
+Log Entry 1:23:26 PM Saturday, May 30, 2020: 
+Row: DocumentFormat.OpenXml.Wordprocessing.TableRow
+Log Entry 1:23:26 PM Saturday, May 30, 2020: 
+Cell: DocumentFormat.OpenXml.Wordprocessing.TableCell
+Log Entry 1:23:26 PM Saturday, May 30, 2020: 
+para: DocumentFormat.OpenXml.Wordprocessing.Paragraph
+Log Entry 1:23:26 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:23:26 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:23:26 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:23:26 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:23:26 PM Saturday, May 30, 2020: 
+Text: «TableStart:DATA»
+Log Entry 1:23:26 PM Saturday, May 30, 2020: 
+Text: «TableStart:DATA»; s: «TableStart:DATA»
+Log Entry 1:23:26 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:23:26 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:23:26 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:23:26 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:23:26 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:23:26 PM Saturday, May 30, 2020: 
+Text: «STT»
+Log Entry 1:23:26 PM Saturday, May 30, 2020: 
+Text: «STT»; s: «STT»
+Log Entry 1:23:26 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:23:26 PM Saturday, May 30, 2020: 
+Cell: DocumentFormat.OpenXml.Wordprocessing.TableCell
+Log Entry 1:23:26 PM Saturday, May 30, 2020: 
+para: DocumentFormat.OpenXml.Wordprocessing.Paragraph
+Log Entry 1:23:26 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:23:26 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:23:26 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:23:26 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:23:26 PM Saturday, May 30, 2020: 
+Text: «ALLOWANCENAME»
+Log Entry 1:23:26 PM Saturday, May 30, 2020: 
+Text: «ALLOWANCENAME»; s: «ALLOWANCENAME»
+Log Entry 1:23:26 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:23:26 PM Saturday, May 30, 2020: 
+Cell: DocumentFormat.OpenXml.Wordprocessing.TableCell
+Log Entry 1:23:26 PM Saturday, May 30, 2020: 
+para: DocumentFormat.OpenXml.Wordprocessing.Paragraph
+Log Entry 1:23:26 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:23:26 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:23:26 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:23:26 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:23:26 PM Saturday, May 30, 2020: 
+Text: «ALLOWANCE»
+Log Entry 1:23:26 PM Saturday, May 30, 2020: 
+Text: «ALLOWANCE»; s: «ALLOWANCE»
+Log Entry 1:23:26 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:23:26 PM Saturday, May 30, 2020: 
+Cell: DocumentFormat.OpenXml.Wordprocessing.TableCell
+Log Entry 1:23:26 PM Saturday, May 30, 2020: 
+para: DocumentFormat.OpenXml.Wordprocessing.Paragraph
+Log Entry 1:23:26 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:23:26 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:23:26 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:23:26 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:23:26 PM Saturday, May 30, 2020: 
+Text: «ALLOWANCEDATE»
+Log Entry 1:23:26 PM Saturday, May 30, 2020: 
+Text: «ALLOWANCEDATE»; s: «ALLOWANCEDATE»
+Log Entry 1:23:26 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:23:26 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:23:26 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:23:26 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:23:26 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:23:26 PM Saturday, May 30, 2020: 
+Text: «TableEnd:DATA»
+Log Entry 1:23:26 PM Saturday, May 30, 2020: 
+Text: «TableEnd:DATA»; s: «TableEnd:DATA»
+Log Entry 1:23:26 PM Saturday, May 30, 2020: 
+DATA_Rows: 1
+Log Entry 1:23:26 PM Saturday, May 30, 2020: 
+DATA_Rows: 2
+Log Entry 1:23:26 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:23:26 PM Saturday, May 30, 2020: 
+para: DocumentFormat.OpenXml.Wordprocessing.Paragraph
+Log Entry 1:24:52 PM Saturday, May 30, 2020: 
+para: DocumentFormat.OpenXml.Wordprocessing.Paragraph
+Log Entry 1:24:52 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:24:52 PM Saturday, May 30, 2020: 
+Text: PHIẾU LƯƠNG; s: PHIẾU LƯƠNG
+Log Entry 1:24:52 PM Saturday, May 30, 2020: 
+Table: DocumentFormat.OpenXml.Wordprocessing.Table
+Log Entry 1:24:52 PM Saturday, May 30, 2020: 
+Table: DocumentFormat.OpenXml.Wordprocessing.Table
+Log Entry 1:24:52 PM Saturday, May 30, 2020: 
+Row: DocumentFormat.OpenXml.Wordprocessing.TableRow
+Log Entry 1:24:52 PM Saturday, May 30, 2020: 
+Cell: DocumentFormat.OpenXml.Wordprocessing.TableCell
+Log Entry 1:24:52 PM Saturday, May 30, 2020: 
+para: DocumentFormat.OpenXml.Wordprocessing.Paragraph
+Log Entry 1:24:52 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:24:52 PM Saturday, May 30, 2020: 
+Text: Kỳ lương
+Log Entry 1:24:52 PM Saturday, May 30, 2020: 
+Text: Kỳ lương; s: Kỳ lương
+Log Entry 1:24:52 PM Saturday, May 30, 2020: 
+Cell: DocumentFormat.OpenXml.Wordprocessing.TableCell
+Log Entry 1:24:52 PM Saturday, May 30, 2020: 
+para: DocumentFormat.OpenXml.Wordprocessing.Paragraph
+Log Entry 1:24:52 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:24:52 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:24:52 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:24:52 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:24:52 PM Saturday, May 30, 2020: 
+Text: «Var:AT_PERIODNAME»
+Log Entry 1:24:52 PM Saturday, May 30, 2020: 
+s «Var:AT_PERIODNAME»; s1 AT_PERIODNAME; ValS1 Kỳ lương tháng 2 năm 2020
+Log Entry 1:24:52 PM Saturday, May 30, 2020: 
+Text: «Var:AT_PERIODNAME»; s: Kỳ lương tháng 2 năm 2020
+Log Entry 1:24:52 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:24:52 PM Saturday, May 30, 2020: 
+Row: DocumentFormat.OpenXml.Wordprocessing.TableRow
+Log Entry 1:24:52 PM Saturday, May 30, 2020: 
+Cell: DocumentFormat.OpenXml.Wordprocessing.TableCell
+Log Entry 1:24:52 PM Saturday, May 30, 2020: 
+para: DocumentFormat.OpenXml.Wordprocessing.Paragraph
+Log Entry 1:24:52 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:24:52 PM Saturday, May 30, 2020: 
+Text: Họ tên
+Log Entry 1:24:52 PM Saturday, May 30, 2020: 
+Text: Họ tên; s: Họ tên
+Log Entry 1:24:52 PM Saturday, May 30, 2020: 
+Cell: DocumentFormat.OpenXml.Wordprocessing.TableCell
+Log Entry 1:24:52 PM Saturday, May 30, 2020: 
+para: DocumentFormat.OpenXml.Wordprocessing.Paragraph
+Log Entry 1:24:52 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:24:52 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:24:52 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:24:52 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:24:52 PM Saturday, May 30, 2020: 
+Text: «Var:HU_EMPLOYEENAME»
+Log Entry 1:24:52 PM Saturday, May 30, 2020: 
+s «Var:HU_EMPLOYEENAME»; s1 HU_EMPLOYEENAME; ValS1 Nguyễn Văn Nam
+Log Entry 1:24:52 PM Saturday, May 30, 2020: 
+Text: «Var:HU_EMPLOYEENAME»; s: Nguyễn Văn Nam
+Log Entry 1:24:52 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:24:52 PM Saturday, May 30, 2020: 
+Row: DocumentFormat.OpenXml.Wordprocessing.TableRow
+Log Entry 1:24:52 PM Saturday, May 30, 2020: 
+Cell: DocumentFormat.OpenXml.Wordprocessing.TableCell
+Log Entry 1:24:52 PM Saturday, May 30, 2020: 
+para: DocumentFormat.OpenXml.Wordprocessing.Paragraph
+Log Entry 1:24:52 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:24:52 PM Saturday, May 30, 2020: 
+Text: Mã
+Log Entry 1:24:52 PM Saturday, May 30, 2020: 
+Text: Mã; s: Mã
+Log Entry 1:24:52 PM Saturday, May 30, 2020: 
+Cell: DocumentFormat.OpenXml.Wordprocessing.TableCell
+Log Entry 1:24:52 PM Saturday, May 30, 2020: 
+para: DocumentFormat.OpenXml.Wordprocessing.Paragraph
+Log Entry 1:24:52 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:24:52 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:24:52 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:24:52 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:24:52 PM Saturday, May 30, 2020: 
+Text: «Var:HU_EMPLOYEECODE»
+Log Entry 1:24:52 PM Saturday, May 30, 2020: 
+s «Var:HU_EMPLOYEECODE»; s1 HU_EMPLOYEECODE; ValS1 00001
+Log Entry 1:24:52 PM Saturday, May 30, 2020: 
+Text: «Var:HU_EMPLOYEECODE»; s: 00001
+Log Entry 1:24:52 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:24:52 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:24:52 PM Saturday, May 30, 2020: 
+Text:  
+Log Entry 1:24:52 PM Saturday, May 30, 2020: 
+Text:  ; s:  
+Log Entry 1:24:52 PM Saturday, May 30, 2020: 
+Row: DocumentFormat.OpenXml.Wordprocessing.TableRow
+Log Entry 1:24:52 PM Saturday, May 30, 2020: 
+Cell: DocumentFormat.OpenXml.Wordprocessing.TableCell
+Log Entry 1:24:52 PM Saturday, May 30, 2020: 
+para: DocumentFormat.OpenXml.Wordprocessing.Paragraph
+Log Entry 1:24:52 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:24:52 PM Saturday, May 30, 2020: 
+Text: Đơn vị
+Log Entry 1:24:52 PM Saturday, May 30, 2020: 
+Text: Đơn vị; s: Đơn vị
+Log Entry 1:24:52 PM Saturday, May 30, 2020: 
+Cell: DocumentFormat.OpenXml.Wordprocessing.TableCell
+Log Entry 1:24:52 PM Saturday, May 30, 2020: 
+para: DocumentFormat.OpenXml.Wordprocessing.Paragraph
+Log Entry 1:24:52 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:24:52 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:24:52 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:24:52 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:24:52 PM Saturday, May 30, 2020: 
+Text: «Var:HU_ORGANIZATIONNAME»
+Log Entry 1:24:52 PM Saturday, May 30, 2020: 
+s «Var:HU_ORGANIZATIONNAME»; s1 HU_ORGANIZATIONNAME; ValS1 Công ty cổ phần phần mềm Văn Nam
+Log Entry 1:24:52 PM Saturday, May 30, 2020: 
+Text: «Var:HU_ORGANIZATIONNAME»; s: Công ty cổ phần phần mềm Văn Nam
+Log Entry 1:24:52 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:24:52 PM Saturday, May 30, 2020: 
+Row: DocumentFormat.OpenXml.Wordprocessing.TableRow
+Log Entry 1:24:52 PM Saturday, May 30, 2020: 
+Cell: DocumentFormat.OpenXml.Wordprocessing.TableCell
+Log Entry 1:24:52 PM Saturday, May 30, 2020: 
+para: DocumentFormat.OpenXml.Wordprocessing.Paragraph
+Log Entry 1:24:52 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:24:52 PM Saturday, May 30, 2020: 
+Text: Phụ cấp
+Log Entry 1:24:52 PM Saturday, May 30, 2020: 
+Text: Phụ cấp; s: Phụ cấp
+Log Entry 1:24:52 PM Saturday, May 30, 2020: 
+Cell: DocumentFormat.OpenXml.Wordprocessing.TableCell
+Log Entry 1:24:52 PM Saturday, May 30, 2020: 
+para: DocumentFormat.OpenXml.Wordprocessing.Paragraph
+Log Entry 1:24:52 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:24:52 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:24:52 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:24:52 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:24:52 PM Saturday, May 30, 2020: 
+Text: «Var:ALLOWANCE»
+Log Entry 1:24:52 PM Saturday, May 30, 2020: 
+s «Var:ALLOWANCE»; s1 ALLOWANCE; ValS1 10000000
+Log Entry 1:24:52 PM Saturday, May 30, 2020: 
+Text: «Var:ALLOWANCE»; s: 10000000
+Log Entry 1:24:52 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:24:52 PM Saturday, May 30, 2020: 
+Row: DocumentFormat.OpenXml.Wordprocessing.TableRow
+Log Entry 1:24:52 PM Saturday, May 30, 2020: 
+Cell: DocumentFormat.OpenXml.Wordprocessing.TableCell
+Log Entry 1:24:52 PM Saturday, May 30, 2020: 
+para: DocumentFormat.OpenXml.Wordprocessing.Paragraph
+Log Entry 1:24:52 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:24:52 PM Saturday, May 30, 2020: 
+Text: Tổng lương
+Log Entry 1:24:52 PM Saturday, May 30, 2020: 
+Text: Tổng lương; s: Tổng lương
+Log Entry 1:24:52 PM Saturday, May 30, 2020: 
+Cell: DocumentFormat.OpenXml.Wordprocessing.TableCell
+Log Entry 1:24:52 PM Saturday, May 30, 2020: 
+para: DocumentFormat.OpenXml.Wordprocessing.Paragraph
+Log Entry 1:24:52 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:24:52 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:24:52 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:24:52 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:24:52 PM Saturday, May 30, 2020: 
+Text: «Var:TOTAL»
+Log Entry 1:24:52 PM Saturday, May 30, 2020: 
+s «Var:TOTAL»; s1 TOTAL; ValS1 20000000
+Log Entry 1:24:52 PM Saturday, May 30, 2020: 
+Text: «Var:TOTAL»; s: 20000000
+Log Entry 1:24:52 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:24:52 PM Saturday, May 30, 2020: 
+Row: DocumentFormat.OpenXml.Wordprocessing.TableRow
+Log Entry 1:24:52 PM Saturday, May 30, 2020: 
+Cell: DocumentFormat.OpenXml.Wordprocessing.TableCell
+Log Entry 1:24:52 PM Saturday, May 30, 2020: 
+para: DocumentFormat.OpenXml.Wordprocessing.Paragraph
+Log Entry 1:24:52 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:24:52 PM Saturday, May 30, 2020: 
+Text: Thuế
+Log Entry 1:24:52 PM Saturday, May 30, 2020: 
+Text: Thuế; s: Thuế
+Log Entry 1:24:52 PM Saturday, May 30, 2020: 
+Cell: DocumentFormat.OpenXml.Wordprocessing.TableCell
+Log Entry 1:24:52 PM Saturday, May 30, 2020: 
+para: DocumentFormat.OpenXml.Wordprocessing.Paragraph
+Log Entry 1:24:52 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:24:52 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:24:52 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:24:52 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:24:52 PM Saturday, May 30, 2020: 
+Text: «Var:PERSONTAX»
+Log Entry 1:24:52 PM Saturday, May 30, 2020: 
+s «Var:PERSONTAX»; s1 PERSONTAX; ValS1 300000
+Log Entry 1:24:52 PM Saturday, May 30, 2020: 
+Text: «Var:PERSONTAX»; s: 300000
+Log Entry 1:24:52 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:24:52 PM Saturday, May 30, 2020: 
+para: DocumentFormat.OpenXml.Wordprocessing.Paragraph
+Log Entry 1:24:52 PM Saturday, May 30, 2020: 
+Table: DocumentFormat.OpenXml.Wordprocessing.Table
+Log Entry 1:24:52 PM Saturday, May 30, 2020: 
+Table: DocumentFormat.OpenXml.Wordprocessing.Table
+Log Entry 1:24:52 PM Saturday, May 30, 2020: 
+Row: DocumentFormat.OpenXml.Wordprocessing.TableRow
+Log Entry 1:24:52 PM Saturday, May 30, 2020: 
+Cell: DocumentFormat.OpenXml.Wordprocessing.TableCell
+Log Entry 1:24:52 PM Saturday, May 30, 2020: 
+para: DocumentFormat.OpenXml.Wordprocessing.Paragraph
+Log Entry 1:24:52 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:24:52 PM Saturday, May 30, 2020: 
+Text: STT
+Log Entry 1:24:52 PM Saturday, May 30, 2020: 
+Text: STT; s: STT
+Log Entry 1:24:52 PM Saturday, May 30, 2020: 
+Cell: DocumentFormat.OpenXml.Wordprocessing.TableCell
+Log Entry 1:24:52 PM Saturday, May 30, 2020: 
+para: DocumentFormat.OpenXml.Wordprocessing.Paragraph
+Log Entry 1:24:52 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:24:52 PM Saturday, May 30, 2020: 
+Text: Tên phụ cấp
+Log Entry 1:24:52 PM Saturday, May 30, 2020: 
+Text: Tên phụ cấp; s: Tên phụ cấp
+Log Entry 1:24:52 PM Saturday, May 30, 2020: 
+Cell: DocumentFormat.OpenXml.Wordprocessing.TableCell
+Log Entry 1:24:52 PM Saturday, May 30, 2020: 
+para: DocumentFormat.OpenXml.Wordprocessing.Paragraph
+Log Entry 1:24:52 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:24:52 PM Saturday, May 30, 2020: 
+Text: Số tiền
+Log Entry 1:24:52 PM Saturday, May 30, 2020: 
+Text: Số tiền; s: Số tiền
+Log Entry 1:24:52 PM Saturday, May 30, 2020: 
+Cell: DocumentFormat.OpenXml.Wordprocessing.TableCell
+Log Entry 1:24:52 PM Saturday, May 30, 2020: 
+para: DocumentFormat.OpenXml.Wordprocessing.Paragraph
+Log Entry 1:24:52 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:24:52 PM Saturday, May 30, 2020: 
+Text: Ngày
+Log Entry 1:24:52 PM Saturday, May 30, 2020: 
+Text: Ngày; s: Ngày
+Log Entry 1:24:52 PM Saturday, May 30, 2020: 
+Cell: DocumentFormat.OpenXml.Wordprocessing.TableCell
+Log Entry 1:24:52 PM Saturday, May 30, 2020: 
+para: DocumentFormat.OpenXml.Wordprocessing.Paragraph
+Log Entry 1:24:52 PM Saturday, May 30, 2020: 
+Row: DocumentFormat.OpenXml.Wordprocessing.TableRow
+Log Entry 1:24:52 PM Saturday, May 30, 2020: 
+Cell: DocumentFormat.OpenXml.Wordprocessing.TableCell
+Log Entry 1:24:52 PM Saturday, May 30, 2020: 
+para: DocumentFormat.OpenXml.Wordprocessing.Paragraph
+Log Entry 1:24:52 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:24:52 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:24:52 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:24:52 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:24:52 PM Saturday, May 30, 2020: 
+Text: «TableStart:DATA»
+Log Entry 1:24:52 PM Saturday, May 30, 2020: 
+Text: «TableStart:DATA»; s: «TableStart:DATA»
+Log Entry 1:24:52 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:24:52 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:24:52 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:24:52 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:24:52 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:24:52 PM Saturday, May 30, 2020: 
+Text: «STT»
+Log Entry 1:24:52 PM Saturday, May 30, 2020: 
+Text: «STT»; s: «STT»
+Log Entry 1:24:52 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:24:52 PM Saturday, May 30, 2020: 
+Cell: DocumentFormat.OpenXml.Wordprocessing.TableCell
+Log Entry 1:24:52 PM Saturday, May 30, 2020: 
+para: DocumentFormat.OpenXml.Wordprocessing.Paragraph
+Log Entry 1:24:52 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:24:52 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:24:52 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:24:52 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:24:52 PM Saturday, May 30, 2020: 
+Text: «ALLOWANCENAME»
+Log Entry 1:24:52 PM Saturday, May 30, 2020: 
+Text: «ALLOWANCENAME»; s: «ALLOWANCENAME»
+Log Entry 1:24:52 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:24:52 PM Saturday, May 30, 2020: 
+Cell: DocumentFormat.OpenXml.Wordprocessing.TableCell
+Log Entry 1:24:52 PM Saturday, May 30, 2020: 
+para: DocumentFormat.OpenXml.Wordprocessing.Paragraph
+Log Entry 1:24:52 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:24:52 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:24:52 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:24:52 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:24:52 PM Saturday, May 30, 2020: 
+Text: «ALLOWANCE»
+Log Entry 1:24:52 PM Saturday, May 30, 2020: 
+Text: «ALLOWANCE»; s: «ALLOWANCE»
+Log Entry 1:24:52 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:24:52 PM Saturday, May 30, 2020: 
+Cell: DocumentFormat.OpenXml.Wordprocessing.TableCell
+Log Entry 1:24:52 PM Saturday, May 30, 2020: 
+para: DocumentFormat.OpenXml.Wordprocessing.Paragraph
+Log Entry 1:24:52 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:24:52 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:24:52 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:24:52 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:24:52 PM Saturday, May 30, 2020: 
+Text: «ALLOWANCEDATE»
+Log Entry 1:24:52 PM Saturday, May 30, 2020: 
+Text: «ALLOWANCEDATE»; s: «ALLOWANCEDATE»
+Log Entry 1:24:52 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:24:52 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:24:52 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:24:52 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:24:52 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:24:52 PM Saturday, May 30, 2020: 
+Text: «TableEnd:DATA»
+Log Entry 1:24:52 PM Saturday, May 30, 2020: 
+Text: «TableEnd:DATA»; s: «TableEnd:DATA»
+Log Entry 1:24:52 PM Saturday, May 30, 2020: 
+DATA_Rows: 1
+Log Entry 1:24:52 PM Saturday, May 30, 2020: 
+DATA_Rows: 2
+Log Entry 1:24:52 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:24:52 PM Saturday, May 30, 2020: 
+Cell: DocumentFormat.OpenXml.Wordprocessing.TableCell
+Log Entry 1:24:52 PM Saturday, May 30, 2020: 
+para: DocumentFormat.OpenXml.Wordprocessing.Paragraph
+Log Entry 1:24:52 PM Saturday, May 30, 2020: 
+para: DocumentFormat.OpenXml.Wordprocessing.Paragraph
+Log Entry 1:26:44 PM Saturday, May 30, 2020: 
+para: DocumentFormat.OpenXml.Wordprocessing.Paragraph
+Log Entry 1:26:44 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:26:44 PM Saturday, May 30, 2020: 
+Text: PHIẾU LƯƠNG; s: PHIẾU LƯƠNG
+Log Entry 1:26:44 PM Saturday, May 30, 2020: 
+Table: DocumentFormat.OpenXml.Wordprocessing.Table
+Log Entry 1:26:44 PM Saturday, May 30, 2020: 
+Table: DocumentFormat.OpenXml.Wordprocessing.Table
+Log Entry 1:26:44 PM Saturday, May 30, 2020: 
+Row: DocumentFormat.OpenXml.Wordprocessing.TableRow
+Log Entry 1:26:44 PM Saturday, May 30, 2020: 
+Cell: DocumentFormat.OpenXml.Wordprocessing.TableCell
+Log Entry 1:26:44 PM Saturday, May 30, 2020: 
+para: DocumentFormat.OpenXml.Wordprocessing.Paragraph
+Log Entry 1:26:44 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:26:44 PM Saturday, May 30, 2020: 
+Text: Kỳ lương
+Log Entry 1:26:44 PM Saturday, May 30, 2020: 
+Text: Kỳ lương; s: Kỳ lương
+Log Entry 1:26:44 PM Saturday, May 30, 2020: 
+Cell: DocumentFormat.OpenXml.Wordprocessing.TableCell
+Log Entry 1:26:44 PM Saturday, May 30, 2020: 
+para: DocumentFormat.OpenXml.Wordprocessing.Paragraph
+Log Entry 1:26:44 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:26:44 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:26:44 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:26:44 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:26:44 PM Saturday, May 30, 2020: 
+Text: «Var:AT_PERIODNAME»
+Log Entry 1:26:44 PM Saturday, May 30, 2020: 
+s «Var:AT_PERIODNAME»; s1 AT_PERIODNAME; ValS1 Kỳ lương tháng 2 năm 2020
+Log Entry 1:26:44 PM Saturday, May 30, 2020: 
+Text: «Var:AT_PERIODNAME»; s: Kỳ lương tháng 2 năm 2020
+Log Entry 1:26:44 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:26:44 PM Saturday, May 30, 2020: 
+Row: DocumentFormat.OpenXml.Wordprocessing.TableRow
+Log Entry 1:26:44 PM Saturday, May 30, 2020: 
+Cell: DocumentFormat.OpenXml.Wordprocessing.TableCell
+Log Entry 1:26:44 PM Saturday, May 30, 2020: 
+para: DocumentFormat.OpenXml.Wordprocessing.Paragraph
+Log Entry 1:26:44 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:26:44 PM Saturday, May 30, 2020: 
+Text: Họ tên
+Log Entry 1:26:44 PM Saturday, May 30, 2020: 
+Text: Họ tên; s: Họ tên
+Log Entry 1:26:44 PM Saturday, May 30, 2020: 
+Cell: DocumentFormat.OpenXml.Wordprocessing.TableCell
+Log Entry 1:26:44 PM Saturday, May 30, 2020: 
+para: DocumentFormat.OpenXml.Wordprocessing.Paragraph
+Log Entry 1:26:44 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:26:44 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:26:44 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:26:44 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:26:44 PM Saturday, May 30, 2020: 
+Text: «Var:HU_EMPLOYEENAME»
+Log Entry 1:26:44 PM Saturday, May 30, 2020: 
+s «Var:HU_EMPLOYEENAME»; s1 HU_EMPLOYEENAME; ValS1 Nguyễn Văn Nam
+Log Entry 1:26:44 PM Saturday, May 30, 2020: 
+Text: «Var:HU_EMPLOYEENAME»; s: Nguyễn Văn Nam
+Log Entry 1:26:44 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:26:44 PM Saturday, May 30, 2020: 
+Row: DocumentFormat.OpenXml.Wordprocessing.TableRow
+Log Entry 1:26:44 PM Saturday, May 30, 2020: 
+Cell: DocumentFormat.OpenXml.Wordprocessing.TableCell
+Log Entry 1:26:44 PM Saturday, May 30, 2020: 
+para: DocumentFormat.OpenXml.Wordprocessing.Paragraph
+Log Entry 1:26:44 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:26:44 PM Saturday, May 30, 2020: 
+Text: Mã
+Log Entry 1:26:44 PM Saturday, May 30, 2020: 
+Text: Mã; s: Mã
+Log Entry 1:26:44 PM Saturday, May 30, 2020: 
+Cell: DocumentFormat.OpenXml.Wordprocessing.TableCell
+Log Entry 1:26:44 PM Saturday, May 30, 2020: 
+para: DocumentFormat.OpenXml.Wordprocessing.Paragraph
+Log Entry 1:26:44 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:26:44 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:26:44 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:26:44 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:26:44 PM Saturday, May 30, 2020: 
+Text: «Var:HU_EMPLOYEECODE»
+Log Entry 1:26:44 PM Saturday, May 30, 2020: 
+s «Var:HU_EMPLOYEECODE»; s1 HU_EMPLOYEECODE; ValS1 00001
+Log Entry 1:26:44 PM Saturday, May 30, 2020: 
+Text: «Var:HU_EMPLOYEECODE»; s: 00001
+Log Entry 1:26:44 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:26:44 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:26:44 PM Saturday, May 30, 2020: 
+Text:  
+Log Entry 1:26:44 PM Saturday, May 30, 2020: 
+Text:  ; s:  
+Log Entry 1:26:44 PM Saturday, May 30, 2020: 
+Row: DocumentFormat.OpenXml.Wordprocessing.TableRow
+Log Entry 1:26:44 PM Saturday, May 30, 2020: 
+Cell: DocumentFormat.OpenXml.Wordprocessing.TableCell
+Log Entry 1:26:44 PM Saturday, May 30, 2020: 
+para: DocumentFormat.OpenXml.Wordprocessing.Paragraph
+Log Entry 1:26:44 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:26:44 PM Saturday, May 30, 2020: 
+Text: Đơn vị
+Log Entry 1:26:44 PM Saturday, May 30, 2020: 
+Text: Đơn vị; s: Đơn vị
+Log Entry 1:26:44 PM Saturday, May 30, 2020: 
+Cell: DocumentFormat.OpenXml.Wordprocessing.TableCell
+Log Entry 1:26:44 PM Saturday, May 30, 2020: 
+para: DocumentFormat.OpenXml.Wordprocessing.Paragraph
+Log Entry 1:26:44 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:26:44 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:26:44 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:26:44 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:26:44 PM Saturday, May 30, 2020: 
+Text: «Var:HU_ORGANIZATIONNAME»
+Log Entry 1:26:44 PM Saturday, May 30, 2020: 
+s «Var:HU_ORGANIZATIONNAME»; s1 HU_ORGANIZATIONNAME; ValS1 Công ty cổ phần phần mềm Văn Nam
+Log Entry 1:26:44 PM Saturday, May 30, 2020: 
+Text: «Var:HU_ORGANIZATIONNAME»; s: Công ty cổ phần phần mềm Văn Nam
+Log Entry 1:26:44 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:26:44 PM Saturday, May 30, 2020: 
+Row: DocumentFormat.OpenXml.Wordprocessing.TableRow
+Log Entry 1:26:44 PM Saturday, May 30, 2020: 
+Cell: DocumentFormat.OpenXml.Wordprocessing.TableCell
+Log Entry 1:26:44 PM Saturday, May 30, 2020: 
+para: DocumentFormat.OpenXml.Wordprocessing.Paragraph
+Log Entry 1:26:44 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:26:44 PM Saturday, May 30, 2020: 
+Text: Phụ cấp
+Log Entry 1:26:44 PM Saturday, May 30, 2020: 
+Text: Phụ cấp; s: Phụ cấp
+Log Entry 1:26:44 PM Saturday, May 30, 2020: 
+Cell: DocumentFormat.OpenXml.Wordprocessing.TableCell
+Log Entry 1:26:44 PM Saturday, May 30, 2020: 
+para: DocumentFormat.OpenXml.Wordprocessing.Paragraph
+Log Entry 1:26:44 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:26:44 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:26:44 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:26:44 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:26:44 PM Saturday, May 30, 2020: 
+Text: «Var:ALLOWANCE»
+Log Entry 1:26:44 PM Saturday, May 30, 2020: 
+s «Var:ALLOWANCE»; s1 ALLOWANCE; ValS1 10000000
+Log Entry 1:26:44 PM Saturday, May 30, 2020: 
+Text: «Var:ALLOWANCE»; s: 10000000
+Log Entry 1:26:44 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:26:44 PM Saturday, May 30, 2020: 
+Row: DocumentFormat.OpenXml.Wordprocessing.TableRow
+Log Entry 1:26:44 PM Saturday, May 30, 2020: 
+Cell: DocumentFormat.OpenXml.Wordprocessing.TableCell
+Log Entry 1:26:44 PM Saturday, May 30, 2020: 
+para: DocumentFormat.OpenXml.Wordprocessing.Paragraph
+Log Entry 1:26:44 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:26:44 PM Saturday, May 30, 2020: 
+Text: Tổng lương
+Log Entry 1:26:44 PM Saturday, May 30, 2020: 
+Text: Tổng lương; s: Tổng lương
+Log Entry 1:26:44 PM Saturday, May 30, 2020: 
+Cell: DocumentFormat.OpenXml.Wordprocessing.TableCell
+Log Entry 1:26:44 PM Saturday, May 30, 2020: 
+para: DocumentFormat.OpenXml.Wordprocessing.Paragraph
+Log Entry 1:26:44 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:26:44 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:26:44 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:26:44 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:26:44 PM Saturday, May 30, 2020: 
+Text: «Var:TOTAL»
+Log Entry 1:26:44 PM Saturday, May 30, 2020: 
+s «Var:TOTAL»; s1 TOTAL; ValS1 20000000
+Log Entry 1:26:44 PM Saturday, May 30, 2020: 
+Text: «Var:TOTAL»; s: 20000000
+Log Entry 1:26:44 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:26:44 PM Saturday, May 30, 2020: 
+Row: DocumentFormat.OpenXml.Wordprocessing.TableRow
+Log Entry 1:26:44 PM Saturday, May 30, 2020: 
+Cell: DocumentFormat.OpenXml.Wordprocessing.TableCell
+Log Entry 1:26:44 PM Saturday, May 30, 2020: 
+para: DocumentFormat.OpenXml.Wordprocessing.Paragraph
+Log Entry 1:26:44 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:26:44 PM Saturday, May 30, 2020: 
+Text: Thuế
+Log Entry 1:26:44 PM Saturday, May 30, 2020: 
+Text: Thuế; s: Thuế
+Log Entry 1:26:44 PM Saturday, May 30, 2020: 
+Cell: DocumentFormat.OpenXml.Wordprocessing.TableCell
+Log Entry 1:26:44 PM Saturday, May 30, 2020: 
+para: DocumentFormat.OpenXml.Wordprocessing.Paragraph
+Log Entry 1:26:44 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:26:44 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:26:44 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:26:44 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:26:44 PM Saturday, May 30, 2020: 
+Text: «Var:PERSONTAX»
+Log Entry 1:26:44 PM Saturday, May 30, 2020: 
+s «Var:PERSONTAX»; s1 PERSONTAX; ValS1 300000
+Log Entry 1:26:44 PM Saturday, May 30, 2020: 
+Text: «Var:PERSONTAX»; s: 300000
+Log Entry 1:26:44 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:26:44 PM Saturday, May 30, 2020: 
+para: DocumentFormat.OpenXml.Wordprocessing.Paragraph
+Log Entry 1:26:44 PM Saturday, May 30, 2020: 
+Table: DocumentFormat.OpenXml.Wordprocessing.Table
+Log Entry 1:26:44 PM Saturday, May 30, 2020: 
+Table: DocumentFormat.OpenXml.Wordprocessing.Table
+Log Entry 1:26:44 PM Saturday, May 30, 2020: 
+Row: DocumentFormat.OpenXml.Wordprocessing.TableRow
+Log Entry 1:26:44 PM Saturday, May 30, 2020: 
+Cell: DocumentFormat.OpenXml.Wordprocessing.TableCell
+Log Entry 1:26:44 PM Saturday, May 30, 2020: 
+para: DocumentFormat.OpenXml.Wordprocessing.Paragraph
+Log Entry 1:26:44 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:26:44 PM Saturday, May 30, 2020: 
+Text: STT
+Log Entry 1:26:44 PM Saturday, May 30, 2020: 
+Text: STT; s: STT
+Log Entry 1:26:44 PM Saturday, May 30, 2020: 
+Cell: DocumentFormat.OpenXml.Wordprocessing.TableCell
+Log Entry 1:26:44 PM Saturday, May 30, 2020: 
+para: DocumentFormat.OpenXml.Wordprocessing.Paragraph
+Log Entry 1:26:44 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:26:44 PM Saturday, May 30, 2020: 
+Text: Tên phụ cấp
+Log Entry 1:26:44 PM Saturday, May 30, 2020: 
+Text: Tên phụ cấp; s: Tên phụ cấp
+Log Entry 1:26:44 PM Saturday, May 30, 2020: 
+Cell: DocumentFormat.OpenXml.Wordprocessing.TableCell
+Log Entry 1:26:44 PM Saturday, May 30, 2020: 
+para: DocumentFormat.OpenXml.Wordprocessing.Paragraph
+Log Entry 1:26:44 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:26:44 PM Saturday, May 30, 2020: 
+Text: Số tiền
+Log Entry 1:26:44 PM Saturday, May 30, 2020: 
+Text: Số tiền; s: Số tiền
+Log Entry 1:26:44 PM Saturday, May 30, 2020: 
+Cell: DocumentFormat.OpenXml.Wordprocessing.TableCell
+Log Entry 1:26:44 PM Saturday, May 30, 2020: 
+para: DocumentFormat.OpenXml.Wordprocessing.Paragraph
+Log Entry 1:26:44 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:26:44 PM Saturday, May 30, 2020: 
+Text: Ngày
+Log Entry 1:26:44 PM Saturday, May 30, 2020: 
+Text: Ngày; s: Ngày
+Log Entry 1:26:44 PM Saturday, May 30, 2020: 
+Cell: DocumentFormat.OpenXml.Wordprocessing.TableCell
+Log Entry 1:26:44 PM Saturday, May 30, 2020: 
+para: DocumentFormat.OpenXml.Wordprocessing.Paragraph
+Log Entry 1:26:44 PM Saturday, May 30, 2020: 
+Row: DocumentFormat.OpenXml.Wordprocessing.TableRow
+Log Entry 1:26:44 PM Saturday, May 30, 2020: 
+Cell: DocumentFormat.OpenXml.Wordprocessing.TableCell
+Log Entry 1:26:44 PM Saturday, May 30, 2020: 
+para: DocumentFormat.OpenXml.Wordprocessing.Paragraph
+Log Entry 1:26:44 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:26:44 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:26:44 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:26:44 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:26:44 PM Saturday, May 30, 2020: 
+Text: «TableStart:DATA»
+Log Entry 1:26:44 PM Saturday, May 30, 2020: 
+Text: «TableStart:DATA»; s: «TableStart:DATA»
+Log Entry 1:26:44 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:26:44 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:26:44 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:26:44 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:26:44 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:26:44 PM Saturday, May 30, 2020: 
+Text: «STT»
+Log Entry 1:26:44 PM Saturday, May 30, 2020: 
+Text: «STT»; s: «STT»
+Log Entry 1:26:44 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:26:44 PM Saturday, May 30, 2020: 
+Cell: DocumentFormat.OpenXml.Wordprocessing.TableCell
+Log Entry 1:26:44 PM Saturday, May 30, 2020: 
+para: DocumentFormat.OpenXml.Wordprocessing.Paragraph
+Log Entry 1:26:44 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:26:44 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:26:44 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:26:44 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:26:44 PM Saturday, May 30, 2020: 
+Text: «ALLOWANCENAME»
+Log Entry 1:26:44 PM Saturday, May 30, 2020: 
+Text: «ALLOWANCENAME»; s: «ALLOWANCENAME»
+Log Entry 1:26:44 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:26:44 PM Saturday, May 30, 2020: 
+Cell: DocumentFormat.OpenXml.Wordprocessing.TableCell
+Log Entry 1:26:44 PM Saturday, May 30, 2020: 
+para: DocumentFormat.OpenXml.Wordprocessing.Paragraph
+Log Entry 1:26:44 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:26:44 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:26:44 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:26:44 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:26:44 PM Saturday, May 30, 2020: 
+Text: «ALLOWANCE»
+Log Entry 1:26:44 PM Saturday, May 30, 2020: 
+Text: «ALLOWANCE»; s: «ALLOWANCE»
+Log Entry 1:26:44 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:26:44 PM Saturday, May 30, 2020: 
+Cell: DocumentFormat.OpenXml.Wordprocessing.TableCell
+Log Entry 1:26:44 PM Saturday, May 30, 2020: 
+para: DocumentFormat.OpenXml.Wordprocessing.Paragraph
+Log Entry 1:26:44 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:26:44 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:26:44 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:26:44 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:26:44 PM Saturday, May 30, 2020: 
+Text: «ALLOWANCEDATE»
+Log Entry 1:26:44 PM Saturday, May 30, 2020: 
+Text: «ALLOWANCEDATE»; s: «ALLOWANCEDATE»
+Log Entry 1:26:44 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:26:44 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:26:44 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:26:44 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:26:44 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:26:44 PM Saturday, May 30, 2020: 
+Text: «TableEnd:DATA»
+Log Entry 1:26:44 PM Saturday, May 30, 2020: 
+Text: «TableEnd:DATA»; s: «TableEnd:DATA»
+Log Entry 1:26:44 PM Saturday, May 30, 2020: 
+DATA_Rows: 1
+Log Entry 1:26:44 PM Saturday, May 30, 2020: 
+DATA_Rows: 2
+Log Entry 1:26:44 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:26:44 PM Saturday, May 30, 2020: 
+Cell: DocumentFormat.OpenXml.Wordprocessing.TableCell
+Log Entry 1:26:44 PM Saturday, May 30, 2020: 
+para: DocumentFormat.OpenXml.Wordprocessing.Paragraph
+Log Entry 1:26:44 PM Saturday, May 30, 2020: 
+para: DocumentFormat.OpenXml.Wordprocessing.Paragraph
+Log Entry 1:27:52 PM Saturday, May 30, 2020: 
+para: DocumentFormat.OpenXml.Wordprocessing.Paragraph
+Log Entry 1:27:52 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:27:52 PM Saturday, May 30, 2020: 
+Text: PHIẾU LƯƠNG; s: PHIẾU LƯƠNG
+Log Entry 1:27:52 PM Saturday, May 30, 2020: 
+Table: DocumentFormat.OpenXml.Wordprocessing.Table
+Log Entry 1:27:52 PM Saturday, May 30, 2020: 
+Table: DocumentFormat.OpenXml.Wordprocessing.Table
+Log Entry 1:27:52 PM Saturday, May 30, 2020: 
+Row: DocumentFormat.OpenXml.Wordprocessing.TableRow
+Log Entry 1:27:52 PM Saturday, May 30, 2020: 
+Cell: DocumentFormat.OpenXml.Wordprocessing.TableCell
+Log Entry 1:27:52 PM Saturday, May 30, 2020: 
+para: DocumentFormat.OpenXml.Wordprocessing.Paragraph
+Log Entry 1:27:52 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:27:52 PM Saturday, May 30, 2020: 
+Text: Kỳ lương
+Log Entry 1:27:52 PM Saturday, May 30, 2020: 
+Text: Kỳ lương; s: Kỳ lương
+Log Entry 1:27:52 PM Saturday, May 30, 2020: 
+Cell: DocumentFormat.OpenXml.Wordprocessing.TableCell
+Log Entry 1:27:52 PM Saturday, May 30, 2020: 
+para: DocumentFormat.OpenXml.Wordprocessing.Paragraph
+Log Entry 1:27:52 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:27:52 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:27:52 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:27:52 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:27:52 PM Saturday, May 30, 2020: 
+Text: «Var:AT_PERIODNAME»
+Log Entry 1:27:52 PM Saturday, May 30, 2020: 
+s «Var:AT_PERIODNAME»; s1 AT_PERIODNAME; ValS1 Kỳ lương tháng 2 năm 2020
+Log Entry 1:27:52 PM Saturday, May 30, 2020: 
+Text: «Var:AT_PERIODNAME»; s: Kỳ lương tháng 2 năm 2020
+Log Entry 1:27:52 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:27:52 PM Saturday, May 30, 2020: 
+Row: DocumentFormat.OpenXml.Wordprocessing.TableRow
+Log Entry 1:27:52 PM Saturday, May 30, 2020: 
+Cell: DocumentFormat.OpenXml.Wordprocessing.TableCell
+Log Entry 1:27:52 PM Saturday, May 30, 2020: 
+para: DocumentFormat.OpenXml.Wordprocessing.Paragraph
+Log Entry 1:27:52 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:27:52 PM Saturday, May 30, 2020: 
+Text: Họ tên
+Log Entry 1:27:52 PM Saturday, May 30, 2020: 
+Text: Họ tên; s: Họ tên
+Log Entry 1:27:52 PM Saturday, May 30, 2020: 
+Cell: DocumentFormat.OpenXml.Wordprocessing.TableCell
+Log Entry 1:27:52 PM Saturday, May 30, 2020: 
+para: DocumentFormat.OpenXml.Wordprocessing.Paragraph
+Log Entry 1:27:52 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:27:52 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:27:52 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:27:52 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:27:52 PM Saturday, May 30, 2020: 
+Text: «Var:HU_EMPLOYEENAME»
+Log Entry 1:27:52 PM Saturday, May 30, 2020: 
+s «Var:HU_EMPLOYEENAME»; s1 HU_EMPLOYEENAME; ValS1 Nguyễn Văn Nam
+Log Entry 1:27:52 PM Saturday, May 30, 2020: 
+Text: «Var:HU_EMPLOYEENAME»; s: Nguyễn Văn Nam
+Log Entry 1:27:52 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:27:52 PM Saturday, May 30, 2020: 
+Row: DocumentFormat.OpenXml.Wordprocessing.TableRow
+Log Entry 1:27:52 PM Saturday, May 30, 2020: 
+Cell: DocumentFormat.OpenXml.Wordprocessing.TableCell
+Log Entry 1:27:52 PM Saturday, May 30, 2020: 
+para: DocumentFormat.OpenXml.Wordprocessing.Paragraph
+Log Entry 1:27:52 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:27:52 PM Saturday, May 30, 2020: 
+Text: Mã
+Log Entry 1:27:52 PM Saturday, May 30, 2020: 
+Text: Mã; s: Mã
+Log Entry 1:27:52 PM Saturday, May 30, 2020: 
+Cell: DocumentFormat.OpenXml.Wordprocessing.TableCell
+Log Entry 1:27:52 PM Saturday, May 30, 2020: 
+para: DocumentFormat.OpenXml.Wordprocessing.Paragraph
+Log Entry 1:27:52 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:27:52 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:27:52 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:27:52 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:27:52 PM Saturday, May 30, 2020: 
+Text: «Var:HU_EMPLOYEECODE»
+Log Entry 1:27:52 PM Saturday, May 30, 2020: 
+s «Var:HU_EMPLOYEECODE»; s1 HU_EMPLOYEECODE; ValS1 00001
+Log Entry 1:27:52 PM Saturday, May 30, 2020: 
+Text: «Var:HU_EMPLOYEECODE»; s: 00001
+Log Entry 1:27:52 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:27:52 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:27:52 PM Saturday, May 30, 2020: 
+Text:  
+Log Entry 1:27:52 PM Saturday, May 30, 2020: 
+Text:  ; s:  
+Log Entry 1:27:52 PM Saturday, May 30, 2020: 
+Row: DocumentFormat.OpenXml.Wordprocessing.TableRow
+Log Entry 1:27:52 PM Saturday, May 30, 2020: 
+Cell: DocumentFormat.OpenXml.Wordprocessing.TableCell
+Log Entry 1:27:52 PM Saturday, May 30, 2020: 
+para: DocumentFormat.OpenXml.Wordprocessing.Paragraph
+Log Entry 1:27:52 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:27:52 PM Saturday, May 30, 2020: 
+Text: Đơn vị
+Log Entry 1:27:52 PM Saturday, May 30, 2020: 
+Text: Đơn vị; s: Đơn vị
+Log Entry 1:27:52 PM Saturday, May 30, 2020: 
+Cell: DocumentFormat.OpenXml.Wordprocessing.TableCell
+Log Entry 1:27:52 PM Saturday, May 30, 2020: 
+para: DocumentFormat.OpenXml.Wordprocessing.Paragraph
+Log Entry 1:27:52 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:27:52 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:27:52 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:27:52 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:27:52 PM Saturday, May 30, 2020: 
+Text: «Var:HU_ORGANIZATIONNAME»
+Log Entry 1:27:52 PM Saturday, May 30, 2020: 
+s «Var:HU_ORGANIZATIONNAME»; s1 HU_ORGANIZATIONNAME; ValS1 Công ty cổ phần phần mềm Văn Nam
+Log Entry 1:27:52 PM Saturday, May 30, 2020: 
+Text: «Var:HU_ORGANIZATIONNAME»; s: Công ty cổ phần phần mềm Văn Nam
+Log Entry 1:27:52 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:27:52 PM Saturday, May 30, 2020: 
+Row: DocumentFormat.OpenXml.Wordprocessing.TableRow
+Log Entry 1:27:52 PM Saturday, May 30, 2020: 
+Cell: DocumentFormat.OpenXml.Wordprocessing.TableCell
+Log Entry 1:27:52 PM Saturday, May 30, 2020: 
+para: DocumentFormat.OpenXml.Wordprocessing.Paragraph
+Log Entry 1:27:52 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:27:52 PM Saturday, May 30, 2020: 
+Text: Phụ cấp
+Log Entry 1:27:52 PM Saturday, May 30, 2020: 
+Text: Phụ cấp; s: Phụ cấp
+Log Entry 1:27:52 PM Saturday, May 30, 2020: 
+Cell: DocumentFormat.OpenXml.Wordprocessing.TableCell
+Log Entry 1:27:52 PM Saturday, May 30, 2020: 
+para: DocumentFormat.OpenXml.Wordprocessing.Paragraph
+Log Entry 1:27:52 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:27:52 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:27:52 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:27:52 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:27:52 PM Saturday, May 30, 2020: 
+Text: «Var:ALLOWANCE»
+Log Entry 1:27:52 PM Saturday, May 30, 2020: 
+s «Var:ALLOWANCE»; s1 ALLOWANCE; ValS1 10000000
+Log Entry 1:27:52 PM Saturday, May 30, 2020: 
+Text: «Var:ALLOWANCE»; s: 10000000
+Log Entry 1:27:52 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:27:52 PM Saturday, May 30, 2020: 
+Row: DocumentFormat.OpenXml.Wordprocessing.TableRow
+Log Entry 1:27:52 PM Saturday, May 30, 2020: 
+Cell: DocumentFormat.OpenXml.Wordprocessing.TableCell
+Log Entry 1:27:52 PM Saturday, May 30, 2020: 
+para: DocumentFormat.OpenXml.Wordprocessing.Paragraph
+Log Entry 1:27:52 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:27:52 PM Saturday, May 30, 2020: 
+Text: Tổng lương
+Log Entry 1:27:52 PM Saturday, May 30, 2020: 
+Text: Tổng lương; s: Tổng lương
+Log Entry 1:27:52 PM Saturday, May 30, 2020: 
+Cell: DocumentFormat.OpenXml.Wordprocessing.TableCell
+Log Entry 1:27:52 PM Saturday, May 30, 2020: 
+para: DocumentFormat.OpenXml.Wordprocessing.Paragraph
+Log Entry 1:27:52 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:27:52 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:27:52 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:27:52 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:27:52 PM Saturday, May 30, 2020: 
+Text: «Var:TOTAL»
+Log Entry 1:27:52 PM Saturday, May 30, 2020: 
+s «Var:TOTAL»; s1 TOTAL; ValS1 20000000
+Log Entry 1:27:52 PM Saturday, May 30, 2020: 
+Text: «Var:TOTAL»; s: 20000000
+Log Entry 1:27:52 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:27:52 PM Saturday, May 30, 2020: 
+Row: DocumentFormat.OpenXml.Wordprocessing.TableRow
+Log Entry 1:27:52 PM Saturday, May 30, 2020: 
+Cell: DocumentFormat.OpenXml.Wordprocessing.TableCell
+Log Entry 1:27:52 PM Saturday, May 30, 2020: 
+para: DocumentFormat.OpenXml.Wordprocessing.Paragraph
+Log Entry 1:27:52 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:27:52 PM Saturday, May 30, 2020: 
+Text: Thuế
+Log Entry 1:27:52 PM Saturday, May 30, 2020: 
+Text: Thuế; s: Thuế
+Log Entry 1:27:52 PM Saturday, May 30, 2020: 
+Cell: DocumentFormat.OpenXml.Wordprocessing.TableCell
+Log Entry 1:27:52 PM Saturday, May 30, 2020: 
+para: DocumentFormat.OpenXml.Wordprocessing.Paragraph
+Log Entry 1:27:52 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:27:52 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:27:52 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:27:52 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:27:52 PM Saturday, May 30, 2020: 
+Text: «Var:PERSONTAX»
+Log Entry 1:27:52 PM Saturday, May 30, 2020: 
+s «Var:PERSONTAX»; s1 PERSONTAX; ValS1 300000
+Log Entry 1:27:52 PM Saturday, May 30, 2020: 
+Text: «Var:PERSONTAX»; s: 300000
+Log Entry 1:27:52 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:27:52 PM Saturday, May 30, 2020: 
+para: DocumentFormat.OpenXml.Wordprocessing.Paragraph
+Log Entry 1:27:52 PM Saturday, May 30, 2020: 
+Table: DocumentFormat.OpenXml.Wordprocessing.Table
+Log Entry 1:27:52 PM Saturday, May 30, 2020: 
+Table: DocumentFormat.OpenXml.Wordprocessing.Table
+Log Entry 1:27:52 PM Saturday, May 30, 2020: 
+Row: DocumentFormat.OpenXml.Wordprocessing.TableRow
+Log Entry 1:27:52 PM Saturday, May 30, 2020: 
+Cell: DocumentFormat.OpenXml.Wordprocessing.TableCell
+Log Entry 1:27:52 PM Saturday, May 30, 2020: 
+para: DocumentFormat.OpenXml.Wordprocessing.Paragraph
+Log Entry 1:27:52 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:27:52 PM Saturday, May 30, 2020: 
+Text: STT
+Log Entry 1:27:52 PM Saturday, May 30, 2020: 
+Text: STT; s: STT
+Log Entry 1:27:52 PM Saturday, May 30, 2020: 
+Cell: DocumentFormat.OpenXml.Wordprocessing.TableCell
+Log Entry 1:27:52 PM Saturday, May 30, 2020: 
+para: DocumentFormat.OpenXml.Wordprocessing.Paragraph
+Log Entry 1:27:52 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:27:52 PM Saturday, May 30, 2020: 
+Text: Tên phụ cấp
+Log Entry 1:27:52 PM Saturday, May 30, 2020: 
+Text: Tên phụ cấp; s: Tên phụ cấp
+Log Entry 1:27:52 PM Saturday, May 30, 2020: 
+Cell: DocumentFormat.OpenXml.Wordprocessing.TableCell
+Log Entry 1:27:52 PM Saturday, May 30, 2020: 
+para: DocumentFormat.OpenXml.Wordprocessing.Paragraph
+Log Entry 1:27:52 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:27:52 PM Saturday, May 30, 2020: 
+Text: Số tiền
+Log Entry 1:27:52 PM Saturday, May 30, 2020: 
+Text: Số tiền; s: Số tiền
+Log Entry 1:27:52 PM Saturday, May 30, 2020: 
+Cell: DocumentFormat.OpenXml.Wordprocessing.TableCell
+Log Entry 1:27:52 PM Saturday, May 30, 2020: 
+para: DocumentFormat.OpenXml.Wordprocessing.Paragraph
+Log Entry 1:27:52 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:27:52 PM Saturday, May 30, 2020: 
+Text: Ngày
+Log Entry 1:27:52 PM Saturday, May 30, 2020: 
+Text: Ngày; s: Ngày
+Log Entry 1:27:52 PM Saturday, May 30, 2020: 
+Cell: DocumentFormat.OpenXml.Wordprocessing.TableCell
+Log Entry 1:27:52 PM Saturday, May 30, 2020: 
+para: DocumentFormat.OpenXml.Wordprocessing.Paragraph
+Log Entry 1:27:52 PM Saturday, May 30, 2020: 
+Row: DocumentFormat.OpenXml.Wordprocessing.TableRow
+Log Entry 1:27:52 PM Saturday, May 30, 2020: 
+Cell: DocumentFormat.OpenXml.Wordprocessing.TableCell
+Log Entry 1:27:52 PM Saturday, May 30, 2020: 
+para: DocumentFormat.OpenXml.Wordprocessing.Paragraph
+Log Entry 1:27:52 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:27:52 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:27:52 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:27:52 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:27:52 PM Saturday, May 30, 2020: 
+Text: «TableStart:DATA»
+Log Entry 1:27:52 PM Saturday, May 30, 2020: 
+Text: «TableStart:DATA»; s: «TableStart:DATA»
+Log Entry 1:27:52 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:27:52 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:27:52 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:27:52 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:27:52 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:27:52 PM Saturday, May 30, 2020: 
+Text: «STT»
+Log Entry 1:27:52 PM Saturday, May 30, 2020: 
+Text: «STT»; s: «STT»
+Log Entry 1:27:52 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:27:52 PM Saturday, May 30, 2020: 
+Cell: DocumentFormat.OpenXml.Wordprocessing.TableCell
+Log Entry 1:27:52 PM Saturday, May 30, 2020: 
+para: DocumentFormat.OpenXml.Wordprocessing.Paragraph
+Log Entry 1:27:52 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:27:52 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:27:52 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:27:52 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:27:52 PM Saturday, May 30, 2020: 
+Text: «ALLOWANCENAME»
+Log Entry 1:27:52 PM Saturday, May 30, 2020: 
+Text: «ALLOWANCENAME»; s: «ALLOWANCENAME»
+Log Entry 1:27:52 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:27:52 PM Saturday, May 30, 2020: 
+Cell: DocumentFormat.OpenXml.Wordprocessing.TableCell
+Log Entry 1:27:52 PM Saturday, May 30, 2020: 
+para: DocumentFormat.OpenXml.Wordprocessing.Paragraph
+Log Entry 1:27:52 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:27:52 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:27:52 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:27:52 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:27:52 PM Saturday, May 30, 2020: 
+Text: «ALLOWANCE»
+Log Entry 1:27:52 PM Saturday, May 30, 2020: 
+Text: «ALLOWANCE»; s: «ALLOWANCE»
+Log Entry 1:27:52 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:27:52 PM Saturday, May 30, 2020: 
+Cell: DocumentFormat.OpenXml.Wordprocessing.TableCell
+Log Entry 1:27:52 PM Saturday, May 30, 2020: 
+para: DocumentFormat.OpenXml.Wordprocessing.Paragraph
+Log Entry 1:27:52 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:27:52 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:27:52 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:27:52 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:27:52 PM Saturday, May 30, 2020: 
+Text: «ALLOWANCEDATE»
+Log Entry 1:27:52 PM Saturday, May 30, 2020: 
+Text: «ALLOWANCEDATE»; s: «ALLOWANCEDATE»
+Log Entry 1:27:52 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:27:52 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:27:52 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:27:52 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:27:52 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:27:52 PM Saturday, May 30, 2020: 
+Text: «TableEnd:DATA»
+Log Entry 1:27:52 PM Saturday, May 30, 2020: 
+Text: «TableEnd:DATA»; s: «TableEnd:DATA»
+Log Entry 1:27:52 PM Saturday, May 30, 2020: 
+DATA_Rows: 1
+Log Entry 1:27:52 PM Saturday, May 30, 2020: 
+DATA_Rows: 2
+Log Entry 1:27:52 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:27:52 PM Saturday, May 30, 2020: 
+Cell: DocumentFormat.OpenXml.Wordprocessing.TableCell
+Log Entry 1:27:52 PM Saturday, May 30, 2020: 
+para: DocumentFormat.OpenXml.Wordprocessing.Paragraph
+Log Entry 1:27:52 PM Saturday, May 30, 2020: 
+para: DocumentFormat.OpenXml.Wordprocessing.Paragraph
+Log Entry 1:29:45 PM Saturday, May 30, 2020: 
+para: DocumentFormat.OpenXml.Wordprocessing.Paragraph
+Log Entry 1:29:45 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:29:45 PM Saturday, May 30, 2020: 
+Text: PHIẾU LƯƠNG; s: PHIẾU LƯƠNG
+Log Entry 1:29:45 PM Saturday, May 30, 2020: 
+Table: DocumentFormat.OpenXml.Wordprocessing.Table
+Log Entry 1:29:45 PM Saturday, May 30, 2020: 
+Table: DocumentFormat.OpenXml.Wordprocessing.Table
+Log Entry 1:29:45 PM Saturday, May 30, 2020: 
+Row: DocumentFormat.OpenXml.Wordprocessing.TableRow
+Log Entry 1:29:45 PM Saturday, May 30, 2020: 
+Cell: DocumentFormat.OpenXml.Wordprocessing.TableCell
+Log Entry 1:29:45 PM Saturday, May 30, 2020: 
+para: DocumentFormat.OpenXml.Wordprocessing.Paragraph
+Log Entry 1:29:45 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:29:45 PM Saturday, May 30, 2020: 
+Text: Kỳ lương
+Log Entry 1:29:45 PM Saturday, May 30, 2020: 
+Text: Kỳ lương; s: Kỳ lương
+Log Entry 1:29:45 PM Saturday, May 30, 2020: 
+Cell: DocumentFormat.OpenXml.Wordprocessing.TableCell
+Log Entry 1:29:45 PM Saturday, May 30, 2020: 
+para: DocumentFormat.OpenXml.Wordprocessing.Paragraph
+Log Entry 1:29:45 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:29:45 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:29:45 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:29:45 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:29:45 PM Saturday, May 30, 2020: 
+Text: «Var:AT_PERIODNAME»
+Log Entry 1:29:45 PM Saturday, May 30, 2020: 
+s «Var:AT_PERIODNAME»; s1 AT_PERIODNAME; ValS1 Kỳ lương tháng 2 năm 2020
+Log Entry 1:29:45 PM Saturday, May 30, 2020: 
+Text: «Var:AT_PERIODNAME»; s: Kỳ lương tháng 2 năm 2020
+Log Entry 1:29:45 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:29:45 PM Saturday, May 30, 2020: 
+Row: DocumentFormat.OpenXml.Wordprocessing.TableRow
+Log Entry 1:29:45 PM Saturday, May 30, 2020: 
+Cell: DocumentFormat.OpenXml.Wordprocessing.TableCell
+Log Entry 1:29:45 PM Saturday, May 30, 2020: 
+para: DocumentFormat.OpenXml.Wordprocessing.Paragraph
+Log Entry 1:29:45 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:29:45 PM Saturday, May 30, 2020: 
+Text: Họ tên
+Log Entry 1:29:45 PM Saturday, May 30, 2020: 
+Text: Họ tên; s: Họ tên
+Log Entry 1:29:45 PM Saturday, May 30, 2020: 
+Cell: DocumentFormat.OpenXml.Wordprocessing.TableCell
+Log Entry 1:29:45 PM Saturday, May 30, 2020: 
+para: DocumentFormat.OpenXml.Wordprocessing.Paragraph
+Log Entry 1:29:45 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:29:45 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:29:45 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:29:45 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:29:45 PM Saturday, May 30, 2020: 
+Text: «Var:HU_EMPLOYEENAME»
+Log Entry 1:29:45 PM Saturday, May 30, 2020: 
+s «Var:HU_EMPLOYEENAME»; s1 HU_EMPLOYEENAME; ValS1 Nguyễn Văn Nam
+Log Entry 1:29:45 PM Saturday, May 30, 2020: 
+Text: «Var:HU_EMPLOYEENAME»; s: Nguyễn Văn Nam
+Log Entry 1:29:45 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:29:45 PM Saturday, May 30, 2020: 
+Row: DocumentFormat.OpenXml.Wordprocessing.TableRow
+Log Entry 1:29:45 PM Saturday, May 30, 2020: 
+Cell: DocumentFormat.OpenXml.Wordprocessing.TableCell
+Log Entry 1:29:45 PM Saturday, May 30, 2020: 
+para: DocumentFormat.OpenXml.Wordprocessing.Paragraph
+Log Entry 1:29:45 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:29:45 PM Saturday, May 30, 2020: 
+Text: Mã
+Log Entry 1:29:45 PM Saturday, May 30, 2020: 
+Text: Mã; s: Mã
+Log Entry 1:29:45 PM Saturday, May 30, 2020: 
+Cell: DocumentFormat.OpenXml.Wordprocessing.TableCell
+Log Entry 1:29:45 PM Saturday, May 30, 2020: 
+para: DocumentFormat.OpenXml.Wordprocessing.Paragraph
+Log Entry 1:29:45 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:29:45 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:29:45 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:29:45 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:29:45 PM Saturday, May 30, 2020: 
+Text: «Var:HU_EMPLOYEECODE»
+Log Entry 1:29:45 PM Saturday, May 30, 2020: 
+s «Var:HU_EMPLOYEECODE»; s1 HU_EMPLOYEECODE; ValS1 00001
+Log Entry 1:29:45 PM Saturday, May 30, 2020: 
+Text: «Var:HU_EMPLOYEECODE»; s: 00001
+Log Entry 1:29:45 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:29:45 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:29:45 PM Saturday, May 30, 2020: 
+Text:  
+Log Entry 1:29:45 PM Saturday, May 30, 2020: 
+Text:  ; s:  
+Log Entry 1:29:45 PM Saturday, May 30, 2020: 
+Row: DocumentFormat.OpenXml.Wordprocessing.TableRow
+Log Entry 1:29:45 PM Saturday, May 30, 2020: 
+Cell: DocumentFormat.OpenXml.Wordprocessing.TableCell
+Log Entry 1:29:45 PM Saturday, May 30, 2020: 
+para: DocumentFormat.OpenXml.Wordprocessing.Paragraph
+Log Entry 1:29:45 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:29:45 PM Saturday, May 30, 2020: 
+Text: Đơn vị
+Log Entry 1:29:45 PM Saturday, May 30, 2020: 
+Text: Đơn vị; s: Đơn vị
+Log Entry 1:29:45 PM Saturday, May 30, 2020: 
+Cell: DocumentFormat.OpenXml.Wordprocessing.TableCell
+Log Entry 1:29:45 PM Saturday, May 30, 2020: 
+para: DocumentFormat.OpenXml.Wordprocessing.Paragraph
+Log Entry 1:29:45 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:29:45 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:29:45 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:29:45 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:29:45 PM Saturday, May 30, 2020: 
+Text: «Var:HU_ORGANIZATIONNAME»
+Log Entry 1:29:45 PM Saturday, May 30, 2020: 
+s «Var:HU_ORGANIZATIONNAME»; s1 HU_ORGANIZATIONNAME; ValS1 Công ty cổ phần phần mềm Văn Nam
+Log Entry 1:29:45 PM Saturday, May 30, 2020: 
+Text: «Var:HU_ORGANIZATIONNAME»; s: Công ty cổ phần phần mềm Văn Nam
+Log Entry 1:29:45 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:29:45 PM Saturday, May 30, 2020: 
+Row: DocumentFormat.OpenXml.Wordprocessing.TableRow
+Log Entry 1:29:45 PM Saturday, May 30, 2020: 
+Cell: DocumentFormat.OpenXml.Wordprocessing.TableCell
+Log Entry 1:29:45 PM Saturday, May 30, 2020: 
+para: DocumentFormat.OpenXml.Wordprocessing.Paragraph
+Log Entry 1:29:45 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:29:45 PM Saturday, May 30, 2020: 
+Text: Phụ cấp
+Log Entry 1:29:45 PM Saturday, May 30, 2020: 
+Text: Phụ cấp; s: Phụ cấp
+Log Entry 1:29:45 PM Saturday, May 30, 2020: 
+Cell: DocumentFormat.OpenXml.Wordprocessing.TableCell
+Log Entry 1:29:45 PM Saturday, May 30, 2020: 
+para: DocumentFormat.OpenXml.Wordprocessing.Paragraph
+Log Entry 1:29:45 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:29:45 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:29:45 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:29:45 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:29:45 PM Saturday, May 30, 2020: 
+Text: «Var:ALLOWANCE»
+Log Entry 1:29:45 PM Saturday, May 30, 2020: 
+s «Var:ALLOWANCE»; s1 ALLOWANCE; ValS1 10000000
+Log Entry 1:29:45 PM Saturday, May 30, 2020: 
+Text: «Var:ALLOWANCE»; s: 10000000
+Log Entry 1:29:45 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:29:45 PM Saturday, May 30, 2020: 
+Row: DocumentFormat.OpenXml.Wordprocessing.TableRow
+Log Entry 1:29:45 PM Saturday, May 30, 2020: 
+Cell: DocumentFormat.OpenXml.Wordprocessing.TableCell
+Log Entry 1:29:45 PM Saturday, May 30, 2020: 
+para: DocumentFormat.OpenXml.Wordprocessing.Paragraph
+Log Entry 1:29:45 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:29:45 PM Saturday, May 30, 2020: 
+Text: Tổng lương
+Log Entry 1:29:45 PM Saturday, May 30, 2020: 
+Text: Tổng lương; s: Tổng lương
+Log Entry 1:29:45 PM Saturday, May 30, 2020: 
+Cell: DocumentFormat.OpenXml.Wordprocessing.TableCell
+Log Entry 1:29:45 PM Saturday, May 30, 2020: 
+para: DocumentFormat.OpenXml.Wordprocessing.Paragraph
+Log Entry 1:29:45 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:29:45 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:29:45 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:29:45 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:29:45 PM Saturday, May 30, 2020: 
+Text: «Var:TOTAL»
+Log Entry 1:29:45 PM Saturday, May 30, 2020: 
+s «Var:TOTAL»; s1 TOTAL; ValS1 20000000
+Log Entry 1:29:45 PM Saturday, May 30, 2020: 
+Text: «Var:TOTAL»; s: 20000000
+Log Entry 1:29:45 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:29:45 PM Saturday, May 30, 2020: 
+Row: DocumentFormat.OpenXml.Wordprocessing.TableRow
+Log Entry 1:29:45 PM Saturday, May 30, 2020: 
+Cell: DocumentFormat.OpenXml.Wordprocessing.TableCell
+Log Entry 1:29:45 PM Saturday, May 30, 2020: 
+para: DocumentFormat.OpenXml.Wordprocessing.Paragraph
+Log Entry 1:29:45 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:29:45 PM Saturday, May 30, 2020: 
+Text: Thuế
+Log Entry 1:29:45 PM Saturday, May 30, 2020: 
+Text: Thuế; s: Thuế
+Log Entry 1:29:45 PM Saturday, May 30, 2020: 
+Cell: DocumentFormat.OpenXml.Wordprocessing.TableCell
+Log Entry 1:29:45 PM Saturday, May 30, 2020: 
+para: DocumentFormat.OpenXml.Wordprocessing.Paragraph
+Log Entry 1:29:45 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:29:45 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:29:45 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:29:45 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:29:45 PM Saturday, May 30, 2020: 
+Text: «Var:PERSONTAX»
+Log Entry 1:29:45 PM Saturday, May 30, 2020: 
+s «Var:PERSONTAX»; s1 PERSONTAX; ValS1 300000
+Log Entry 1:29:45 PM Saturday, May 30, 2020: 
+Text: «Var:PERSONTAX»; s: 300000
+Log Entry 1:29:45 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:29:45 PM Saturday, May 30, 2020: 
+para: DocumentFormat.OpenXml.Wordprocessing.Paragraph
+Log Entry 1:29:45 PM Saturday, May 30, 2020: 
+Table: DocumentFormat.OpenXml.Wordprocessing.Table
+Log Entry 1:29:45 PM Saturday, May 30, 2020: 
+Table: DocumentFormat.OpenXml.Wordprocessing.Table
+Log Entry 1:29:45 PM Saturday, May 30, 2020: 
+Row: DocumentFormat.OpenXml.Wordprocessing.TableRow
+Log Entry 1:29:45 PM Saturday, May 30, 2020: 
+Cell: DocumentFormat.OpenXml.Wordprocessing.TableCell
+Log Entry 1:29:45 PM Saturday, May 30, 2020: 
+para: DocumentFormat.OpenXml.Wordprocessing.Paragraph
+Log Entry 1:29:45 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:29:45 PM Saturday, May 30, 2020: 
+Text: STT
+Log Entry 1:29:45 PM Saturday, May 30, 2020: 
+Text: STT; s: STT
+Log Entry 1:29:45 PM Saturday, May 30, 2020: 
+Cell: DocumentFormat.OpenXml.Wordprocessing.TableCell
+Log Entry 1:29:45 PM Saturday, May 30, 2020: 
+para: DocumentFormat.OpenXml.Wordprocessing.Paragraph
+Log Entry 1:29:45 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:29:45 PM Saturday, May 30, 2020: 
+Text: Tên phụ cấp
+Log Entry 1:29:45 PM Saturday, May 30, 2020: 
+Text: Tên phụ cấp; s: Tên phụ cấp
+Log Entry 1:29:45 PM Saturday, May 30, 2020: 
+Cell: DocumentFormat.OpenXml.Wordprocessing.TableCell
+Log Entry 1:29:45 PM Saturday, May 30, 2020: 
+para: DocumentFormat.OpenXml.Wordprocessing.Paragraph
+Log Entry 1:29:45 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:29:45 PM Saturday, May 30, 2020: 
+Text: Số tiền
+Log Entry 1:29:45 PM Saturday, May 30, 2020: 
+Text: Số tiền; s: Số tiền
+Log Entry 1:29:45 PM Saturday, May 30, 2020: 
+Cell: DocumentFormat.OpenXml.Wordprocessing.TableCell
+Log Entry 1:29:45 PM Saturday, May 30, 2020: 
+para: DocumentFormat.OpenXml.Wordprocessing.Paragraph
+Log Entry 1:29:45 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:29:45 PM Saturday, May 30, 2020: 
+Text: Ngày
+Log Entry 1:29:45 PM Saturday, May 30, 2020: 
+Text: Ngày; s: Ngày
+Log Entry 1:29:45 PM Saturday, May 30, 2020: 
+Cell: DocumentFormat.OpenXml.Wordprocessing.TableCell
+Log Entry 1:29:45 PM Saturday, May 30, 2020: 
+para: DocumentFormat.OpenXml.Wordprocessing.Paragraph
+Log Entry 1:29:45 PM Saturday, May 30, 2020: 
+Row: DocumentFormat.OpenXml.Wordprocessing.TableRow
+Log Entry 1:29:45 PM Saturday, May 30, 2020: 
+Cell: DocumentFormat.OpenXml.Wordprocessing.TableCell
+Log Entry 1:29:45 PM Saturday, May 30, 2020: 
+para: DocumentFormat.OpenXml.Wordprocessing.Paragraph
+Log Entry 1:29:45 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:29:45 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:29:45 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:29:45 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:29:45 PM Saturday, May 30, 2020: 
+Text: «TableStart:DATA»
+Log Entry 1:29:45 PM Saturday, May 30, 2020: 
+Text: «TableStart:DATA»; s: «TableStart:DATA»
+Log Entry 1:29:45 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:29:45 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:29:45 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:29:45 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:29:45 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:29:45 PM Saturday, May 30, 2020: 
+Text: «STT»
+Log Entry 1:29:45 PM Saturday, May 30, 2020: 
+Text: «STT»; s: «STT»
+Log Entry 1:29:45 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:29:45 PM Saturday, May 30, 2020: 
+Cell: DocumentFormat.OpenXml.Wordprocessing.TableCell
+Log Entry 1:29:45 PM Saturday, May 30, 2020: 
+para: DocumentFormat.OpenXml.Wordprocessing.Paragraph
+Log Entry 1:29:45 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:29:45 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:29:45 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:29:45 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:29:45 PM Saturday, May 30, 2020: 
+Text: «ALLOWANCENAME»
+Log Entry 1:29:45 PM Saturday, May 30, 2020: 
+Text: «ALLOWANCENAME»; s: «ALLOWANCENAME»
+Log Entry 1:29:45 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:29:45 PM Saturday, May 30, 2020: 
+Cell: DocumentFormat.OpenXml.Wordprocessing.TableCell
+Log Entry 1:29:45 PM Saturday, May 30, 2020: 
+para: DocumentFormat.OpenXml.Wordprocessing.Paragraph
+Log Entry 1:29:45 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:29:45 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:29:45 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:29:45 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:29:45 PM Saturday, May 30, 2020: 
+Text: «ALLOWANCE»
+Log Entry 1:29:45 PM Saturday, May 30, 2020: 
+Text: «ALLOWANCE»; s: «ALLOWANCE»
+Log Entry 1:29:45 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:29:45 PM Saturday, May 30, 2020: 
+Cell: DocumentFormat.OpenXml.Wordprocessing.TableCell
+Log Entry 1:29:45 PM Saturday, May 30, 2020: 
+para: DocumentFormat.OpenXml.Wordprocessing.Paragraph
+Log Entry 1:29:45 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:29:45 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:29:45 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:29:45 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:29:45 PM Saturday, May 30, 2020: 
+Text: «ALLOWANCEDATE»
+Log Entry 1:29:45 PM Saturday, May 30, 2020: 
+Text: «ALLOWANCEDATE»; s: «ALLOWANCEDATE»
+Log Entry 1:29:45 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:29:45 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:29:45 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:29:45 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:29:45 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:29:45 PM Saturday, May 30, 2020: 
+Text: «TableEnd:DATA»
+Log Entry 1:29:45 PM Saturday, May 30, 2020: 
+Text: «TableEnd:DATA»; s: «TableEnd:DATA»
+Log Entry 1:29:45 PM Saturday, May 30, 2020: 
+DATA_Rows: 1
+Log Entry 1:29:45 PM Saturday, May 30, 2020: 
+DATA_Rows: 2
+Log Entry 1:29:45 PM Saturday, May 30, 2020: 
+DATA_Rows: 3
+Log Entry 1:29:45 PM Saturday, May 30, 2020: 
+DATA_Rows: 4
+Log Entry 1:29:45 PM Saturday, May 30, 2020: 
+run: DocumentFormat.OpenXml.Wordprocessing.Run
+Log Entry 1:29:45 PM Saturday, May 30, 2020: 
+Cell: DocumentFormat.OpenXml.Wordprocessing.TableCell
+Log Entry 1:29:45 PM Saturday, May 30, 2020: 
+para: DocumentFormat.OpenXml.Wordprocessing.Paragraph
+Log Entry 1:29:45 PM Saturday, May 30, 2020: 
+para: DocumentFormat.OpenXml.Wordprocessing.Paragraph
